@@ -9,7 +9,7 @@ import sys
 from jinja2 import Environment, FileSystemLoader
 import shutil
     
-
+DEBUG = True
 
 shop_list=[
 #'http://www.mp3va.com/',
@@ -32,7 +32,8 @@ class Shop:
 		self.name=url
 		self.url=url
 		self.disk=[]
-		self.serchDisk()
+		#self.createDiskList()
+		self.createDiskList4Test()
 
 	def getName(self):
 		return self.name
@@ -40,15 +41,23 @@ class Shop:
 	def getUrl(self):
 		return self.url
 
-	def getDisk(self):
+	def getDiskList(self):
 		return self.disk
 
-	def serchDisk(self):
+	def createDiskList(self):
 		for url in search(input_line1 + ' site:' + self.url, stop=5):
 			soup = BeautifulSoup(urllib.urlopen(url))
 			title = soup.find('title').text
 			self.disk.append(Disk(title,url))
 
+	def createDiskList4Test(self):
+		if self.url=="https://hardwax.com/":
+			self.disk.append(Disk(u"Kassem Mosse: Workshop 12 - Hard Wax","https://hardwax.com/62572/kassem-mosse/workshop-12/"))
+			self.disk.append(Disk(u"Kassem Mosse: Workshop 08 - Hard Wax","https://hardwax.com/58639/kassem-mosse/workshop-08"))
+		elif self.url=="http://diskunion.net/":
+			self.disk.append(Disk(u"KASSEM MOSSE / Workshop 12 | diskunion.net PROGRESSIVE ROCK ONLINE SHOP","http://diskunion.net/progre/ct/detail/CM-0036556?utm_source=rmd&utm_medium=ad&utm_campaign=rmd"))
+			self.disk.append(Disk(u"Workshop 12 - KASSEM MOSSE - 12&quot;(レコード) | CLUB/DANCE | ディスクユニオン･オンラインショップ","http://diskunion.net/sp/punk/detail/CM-0036556?utm_source=rmd&utm_medium=ad&utm_campaign=rmd"))
+			
 class Disk:
 	def __init__(self,name,url):
 		self.name=name
@@ -68,19 +77,34 @@ def create_html():
 
 	sample_list = []
 	sample_list.append({'shopname':u"Hard Wax", 'shopurl':u"https://hardwax.com/"})
-	sample_list.append({'name':u"Kassem Mosse: Workshop 12 - Hard Wax", 'url':u"Href=https://hardwax.com/62572/kassem-mosse/workshop-12/"})
+	sample_list.append({'name':u"Kassem Mosse: Workshop 12 - Hard Wax", 'url':u"https://hardwax.com/62572/kassem-mosse/workshop-12/"})
 	sample_list.append({'name':u"Kassem Mosse: Workshop 08 - Hard Wax", 'url':u"https://hardwax.com/58639/kassem-mosse/workshop-08"})
 	sample_list.append({'name':u"Kassem Mosse: Workshop 03 - Hard Wax", 'url':u"https://hardwax.com/54697/kassem-mosse/workshop-03/"})
 	sample_list.append({'shopname':u"disk union", 'shopurl':u"http://diskunion.net/"})
-	sample_list.append({'name':u"KASSEM MOSSE / Workshop 12 | diskunion.net PROGRESSIVE ROCK ONLINE SHOP", 'url':u"Href=http://diskunion.net/progre/ct/detail/CM-0036556?utm_source=rmd&utm_medium=ad&utm_campaign=rmd"})
+	sample_list.append({'name':u"KASSEM MOSSE / Workshop 12 | diskunion.net PROGRESSIVE ROCK ONLINE SHOP", 'url':u"http://diskunion.net/progre/ct/detail/CM-0036556?utm_source=rmd&utm_medium=ad&utm_campaign=rmd"})
 	sample_list.append({'name':u"Workshop 12 - KASSEM MOSSE - 12&quot;(レコード) | CLUB/DANCE | ディスクユニオン･オンラインショップ", 'url':u"http://diskunion.net/sp/punk/detail/CM-0036556?utm_source=rmd&utm_medium=ad&utm_campaign=rmd"})
 	html = tmpl.render({'title':title, 'disk_list':sample_list})
 	f = open('jinja.html', 'w')
 	f.write(html.encode('utf-8'))
 	f.close()
 
+
 if __name__ == "__main__":
-	create_html()
+	if DEBUG:
+		print 'DEBUG==true'
+	else:
+		print 'DEBUG==false'
+		
+
+	HardWax = Shop("https://hardwax.com/")
+	DiskUnion = Shop("http://diskunion.net/")
+	for c in HardWax.getDiskList():
+		print c.getDiskUrl(),c.getDiskTitle()
+
+	for c in DiskUnion.getDiskList():
+		print c.getDiskUrl(),c.getDiskTitle()
+
+	#create_html()
 
 	print "input words..."
 	#input_line1 = raw_input()
@@ -97,7 +121,7 @@ if __name__ == "__main__":
 	# for shop_class in pack:
 		# html = u"<p><A Href="+shop_class.getUrl()+">"+shop_class.getName()+"</A></p>"
 		# f.write(html)
-		# for disk in shop_class.getDisk():
+		# for disk in shop_class.getDiskList():
 			# html = u"<p><A Href="+disk.getDiskUrl()+">"+disk.getDiskTitle()+"</A></p>"
 			# f.write(html.encode('utf-8'))
 
