@@ -15,16 +15,12 @@ shop_list=[
 {'shopname':u'mp3va', 		'shopurl':u'http://www.mp3va.com/'},
 {'shopname':u'Beatport', 	'shopurl':u'https://www.beatport.com/'},
 {'shopname':u'Wasabeat',	'shopurl':u'https://www.wasabeat.jp/'},
-#'shopname':u'Amazon',		'shopurl':u'http://www.amazon.co.jp/MP3-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1-DRM%E3%83%95%E3%83%AA%E3%83%BC/b/ref=sd_allcat_mp3_str?ie=UTF8&node=2128134051',
-#'shopname':u'Juno',		'shopurl':u'http://www.junodownload.com/',
+{'shopname':u'Amazon',		'shopurl':u'http://www.amazon.co.jp/MP3-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1-DRM%E3%83%95%E3%83%AA%E3%83%BC/b/ref=sd_allcat_mp3_str?ie=UTF8&node=2128134051'},
+{'shopname':u'Juno',		'shopurl':u'http://www.junodownload.com/'},
 {'shopname':u'Hardwax','shopurl':u'https://hardwax.com/'},
 {'shopname':u'JetSet',		'shopurl':u'http://www.jetsetrecords.net/'},
 {'shopname':u'ユニオン','shopurl':u'http://diskunion.net/'}
 ]
-
-
-urls=[]
-titles=[]
 
 
 class Shop:
@@ -44,11 +40,23 @@ class Shop:
 		return self.disk
 
 	def createDiskList(self):
+		# use below method to search with google
+		# https://breakingcode.wordpress.com/2010/06/29/google-search-python/
 		for url in search(keyword + ' site:' + self.url, stop=5):
 			soup = BeautifulSoup(urllib.urlopen(url))
-			title = soup.find('title').text
-			self.disk.append(Disk(title,url))
-			print title, "|", url
+			#print soup.prettify()
+			try:
+				title = soup.find('title').text
+			except AttributeError:
+				print 'AttributeError:'
+				#print 'AttributeError:'.format(e.errno, e.strerror)
+				title = u'hogehoge'
+			except:
+				print 'Unexpected error', sys.exc_info()[0]
+				title = u'hogehoge'
+			else:
+				self.disk.append(Disk(title,url))
+				print title
 			
 class Disk:
 	def __init__(self,name,url):
@@ -65,7 +73,7 @@ class Disk:
 def connect_jinja(shop_class_list, keyword):
 	env = Environment(loader=FileSystemLoader('./', encoding='utf8'))
 	tmpl = env.get_template('jinja.tmpl')
-	title = u" result of " + keyword
+	title = u" Search result of " + keyword
 
 	sample_list = []
 	for shop_class in shop_class_list:
