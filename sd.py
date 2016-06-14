@@ -8,6 +8,7 @@ import webbrowser
 import sys
 from jinja2 import Environment, FileSystemLoader
 import shutil
+from datetime import datetime as dt
     
 DEBUG = False
 
@@ -82,8 +83,11 @@ def connect_jinja(shop_class_list, keyword):
 		for disk_class in disk_class_list:
 			sample_list.append({'name':disk_class.getDiskTitle(), 'url':disk_class.getDiskUrl()})
 
+	tdatetime = dt.now()
+	tstr = tdatetime.strftime('%Y%m%d%H%M')
+
 	html = tmpl.render({'title':title, 'disk_list':sample_list})
-	f = open('jinja.html', 'w')
+	f = open(keyword+'_'+tstr+'.html', 'w')
 	f.write(html.encode('utf-8'))
 	f.close()
 
@@ -101,7 +105,7 @@ if __name__ == "__main__":
 
 	for a in shop_list:
 		shop_class_list.append(Shop(a['shopname'], a['shopurl'],keyword))
-			
+	
 	connect_jinja(shop_class_list, keyword)
 
 	print "Finish!!"
