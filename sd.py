@@ -16,7 +16,7 @@ shop_list=[
 {'shopname':u'mp3va', 		'shopurl':u'http://www.mp3va.com/'},
 {'shopname':u'Beatport', 	'shopurl':u'https://www.beatport.com/'},
 {'shopname':u'Wasabeat',	'shopurl':u'https://www.wasabeat.jp/'},
-{'shopname':u'Amazon',		'shopurl':u'http://www.amazon.co.jp/MP3-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1-DRM%E3%83%95%E3%83%AA%E3%83%BC/b/ref=sd_allcat_mp3_str?ie=UTF8&node=2128134051'},
+{'shopname':u'Amazon',		'shopurl':u'https://www.amazon.co.jp/'},
 {'shopname':u'Juno',		'shopurl':u'http://www.junodownload.com/'},
 {'shopname':u'Hardwax','shopurl':u'https://hardwax.com/'},
 {'shopname':u'JetSet',		'shopurl':u'http://www.jetsetrecords.net/'},
@@ -44,6 +44,7 @@ class Shop:
 		# use below method to search with google
 		# https://breakingcode.wordpress.com/2010/06/29/google-search-python/
 		for url in search(keyword + ' site:' + self.url, stop=5):
+			print url
 			soup = BeautifulSoup(urllib.urlopen(url))
 			#print soup.prettify()
 			try:
@@ -87,7 +88,7 @@ def connect_jinja(shop_class_list, keyword):
 	tstr = tdatetime.strftime('%Y%m%d%H%M')
 
 	html = tmpl.render({'title':title, 'disk_list':sample_list})
-	f = open(keyword+'_'+tstr+'.html', 'w')
+	f = open(tstr+'_'+keyword+'.html', 'w')
 	f.write(html.encode('utf-8'))
 	f.close()
 
@@ -103,12 +104,19 @@ if __name__ == "__main__":
 
 	shop_class_list=[]
 
+
+	tdatetime = dt.now()
+	tstr = tdatetime.strftime('%Y/%m/%d-%H:%M')
+	print tstr, 'start search...'
+	
 	for a in shop_list:
 		shop_class_list.append(Shop(a['shopname'], a['shopurl'],keyword))
 	
 	connect_jinja(shop_class_list, keyword)
 
-	print "Finish!!"
+	tdatetime = dt.now()
+	tstr = tdatetime.strftime('%Y/%m/%d-%H:%M')
+	print tstr, "Finish!!"
 
 	#shutil.copy('./test.html', '/Library/WebServer/Documents/sd.html')
 	#webbrowser.open('http://localhost/sd.html')
