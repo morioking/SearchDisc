@@ -41,10 +41,11 @@ class Shop:
 		return self.disk
 
 	def createDiskList(self):
+		print self.name
 		# use below method to search with google
 		# https://breakingcode.wordpress.com/2010/06/29/google-search-python/
-		for url in search(keyword + ' site:' + self.url, stop=5):
-			print url
+		for url in search(keyword + ' site:' + self.url, num=5, start=0, stop=5):
+			print '  ',url
 			soup = BeautifulSoup(urllib.urlopen(url))
 			#print soup.prettify()
 			try:
@@ -58,7 +59,7 @@ class Shop:
 				title = u'hogehoge'
 			else:
 				self.disk.append(Disk(title,url))
-				print title
+				print '     > ',title
 			
 class Disk:
 	def __init__(self,name,url):
