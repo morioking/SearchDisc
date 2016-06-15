@@ -53,10 +53,10 @@ class Shop:
 			except AttributeError:
 				print 'AttributeError:'
 				#print 'AttributeError:'.format(e.errno, e.strerror)
-				title = u'hogehoge'
+			except UnicodeEncodeError:
+				print "UnicodeEncodeError"
 			except:
 				print 'Unexpected error', sys.exc_info()[0]
-				title = u'hogehoge'
 			else:
 				self.disk.append(Disk(title,url))
 				print '     > ',title
