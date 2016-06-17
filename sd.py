@@ -55,13 +55,16 @@ class Shop:
 					title = soup.find('title').text
 				except AttributeError:
 					print 'AttributeError:'
-				except UnicodeEncodeError:
-					print "UnicodeEncodeError"
 				except:
 					print 'Unexpected error', sys.exc_info()[0]
 				else:
 					self.disk.append(Disk(title,url))
-					print '     > ',title
+					try:
+						print '     > ',title
+					except UnicodeEncodeError:
+						print "UnicodeEncodeError", "TODO:need to replace illigal words"
+					else:
+						pass
 			else:
 				pass
 
