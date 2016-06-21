@@ -19,10 +19,14 @@ shop_list=[
 {'shopname':u'Wasabeat',	'shopurl':u'https://www.wasabeat.jp/'},
 {'shopname':u'Amazon',		'shopurl':u'https://www.amazon.co.jp/'},
 {'shopname':u'Juno',		'shopurl':u'http://www.junodownload.com/'},
-{'shopname':u'Hardwax','shopurl':u'https://hardwax.com/'},
-{'shopname':u'JetSet',		'shopurl':u'http://www.jetsetrecords.net/'},
-{'shopname':u'ユニオン','shopurl':u'http://diskunion.net/'},
-{'shopname':u'テクニーク','shopurl':u'http://www.technique.co.jp/'}
+{'shopname':u'Hardwax',		'shopurl':u'https://hardwax.com/'},
+{'shopname':u'Traxsource',	'shopurl':u'http://www.traxsource.com/'},
+{'shopname':u'Bleep',		'shopurl':u'https://bleep.com/'},
+{'shopname':u'trackitdown',		'shopurl':u'https://www.trackitdown.net/'},
+{'shopname':u'whatpeopleplay',		'shopurl':u'https://www.whatpeopleplay.com/'}
+# {'shopname':u'JetSet',		'shopurl':u'http://www.jetsetrecords.net/'},
+# {'shopname':u'ユニオン','shopurl':u'http://diskunion.net/'},
+# {'shopname':u'テクニーク','shopurl':u'http://www.technique.co.jp/'}
 ]
 
 
@@ -62,7 +66,7 @@ class Shop:
 					try:
 						print '     > ',title
 					except UnicodeEncodeError:
-						print "UnicodeEncodeError", "TODO:need to replace illigal words"
+						print "UnicodeEncodeError", "TODO:need to replace illigal words to display terminal"
 					else:
 						pass
 			else:
