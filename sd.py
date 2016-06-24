@@ -10,24 +10,30 @@ from jinja2 import Environment, FileSystemLoader
 import shutil
 from datetime import datetime as dt
     
-DEBUG = False
-RESULTS = 3
+DEBUG = True
+RESULTS = 1
+
+shop_list_test=[
+{'shopname':u'Beatport', 	'shopurl':u'https://www.beatport.com/'}
+]
 
 shop_list=[
-{'shopname':u'mp3va', 		'shopurl':u'http://www.mp3va.com/'},
-{'shopname':u'Beatport', 	'shopurl':u'https://www.beatport.com/'},
-{'shopname':u'Wasabeat',	'shopurl':u'https://www.wasabeat.jp/'},
-{'shopname':u'Amazon',		'shopurl':u'https://www.amazon.co.jp/'},
-{'shopname':u'Juno',		'shopurl':u'http://www.junodownload.com/'},
-{'shopname':u'Hardwax',		'shopurl':u'https://hardwax.com/'},
-{'shopname':u'Traxsource',	'shopurl':u'http://www.traxsource.com/'},
-{'shopname':u'Bleep',		'shopurl':u'https://bleep.com/'},
-{'shopname':u'trackitdown',		'shopurl':u'https://www.trackitdown.net/'},
-{'shopname':u'whatpeopleplay',		'shopurl':u'https://www.whatpeopleplay.com/'}
+ {'shopname':u'mp3va', 		'shopurl':u'http://www.mp3va.com/'},
+ {'shopname':u'Beatport', 	'shopurl':u'https://www.beatport.com/'},
+ {'shopname':u'Wasabeat',	'shopurl':u'https://www.wasabeat.jp/'},
+ {'shopname':u'Amazon',		'shopurl':u'https://www.amazon.co.jp/'},
+ {'shopname':u'Juno',		'shopurl':u'http://www.junodownload.com/'},
+ {'shopname':u'Hardwax',		'shopurl':u'https://hardwax.com/'},
+ {'shopname':u'Traxsource',	'shopurl':u'http://www.traxsource.com/'},
+ {'shopname':u'Bleep',		'shopurl':u'https://bleep.com/'},
+ {'shopname':u'trackitdown',		'shopurl':u'https://www.trackitdown.net/'},
+ {'shopname':u'whatpeopleplay',		'shopurl':u'https://www.whatpeopleplay.com/'}
 # {'shopname':u'JetSet',		'shopurl':u'http://www.jetsetrecords.net/'},
 # {'shopname':u'ユニオン','shopurl':u'http://diskunion.net/'},
 # {'shopname':u'テクニーク','shopurl':u'http://www.technique.co.jp/'}
 ]
+
+
 
 
 class Shop:
@@ -54,7 +60,14 @@ class Shop:
 			if url.find('.xml') == -1:
 				print '  ',url
 				soup = BeautifulSoup(urllib.urlopen(url))
-				#print soup.prettify()
+				if DEBUG:
+					tdatetime = dt.now()
+					tstr = tdatetime.strftime('%Y/%m/%d-%H:%M')
+					f = open('test.txt', 'w')
+					f.write(soup.prettify())
+					print 'write ',self.name+'_'+tstr+'.html'
+					f.close()
+					#print soup.prettify()
 				try:
 					title = soup.find('title').text
 				except AttributeError:
@@ -110,19 +123,23 @@ if __name__ == "__main__":
 
 	if DEBUG:
 		print 'DEBUG==true'
-		keyword = "kassem mosse workshop 12"
-	else:
-		print "input keyword..."
-		keyword = raw_input()
 
+	print "input keyword..."
+	keyword = raw_input()
+
+	sl = []
 	shop_class_list=[]
-
-
+	
 	tdatetime = dt.now()
 	tstr = tdatetime.strftime('%Y/%m/%d-%H:%M')
 	print tstr, 'start search...'
 	
-	for a in shop_list:
+	if DEBUG:
+		sl = shop_list_test
+	else:
+		sl = shop_list
+	
+	for a in sl:
 		shop_class_list.append(Shop(a['shopname'], a['shopurl'],keyword))
 	
 	connect_jinja(shop_class_list, keyword)
