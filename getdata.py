@@ -13,7 +13,7 @@ from datetime import datetime as dt
 
 if __name__ == "__main__":
 
-	f = open('test.txt', 'r')
+	f = open('Beatport_test.dat', 'r')
 	data = f.read()
 	f.close()
 	soup = BeautifulSoup(data)

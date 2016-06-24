@@ -1,0 +1,3305 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <script type="text/javascript">
+   window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o&lt;t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(e,n){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,n)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&amp;&amp;(newrelic=NREUM);var c=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],u=["addPageAction"],f="api-";i(c,function(e,n){newrelic[n]=r(f+n,"api")}),i(u,function(e,n){newrelic[n]=r(f+n)}),n.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&amp;&amp;(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&amp;&amp;(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&amp;&amp;(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0&gt;o?0:o);++r&lt;o;)i[r]=e[n+r];return i}n.exports=r},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&amp;&amp;e instanceof r?e:e?c(e,a,i):i()}function t(t,r,o){e&amp;&amp;e(t,r,o);for(var i=n(o),a=l(t),c=a.length,u=0;c&gt;u;u++)a[u].apply(i,r);var s=f[m[t]];return s&amp;&amp;s.push([w,t,r,i]),i}function p(e,n){g[e]=l(e).concat(n)}function l(e){return g[e]||[]}function d(e){return s[e]=s[e]||o(t)}function v(e,n){u(e,function(e,t){n=n||"feature",m[t]=n,n in f||(f[n]=[])})}var g={},m={},w={on:p,emit:t,get:d,listeners:l,context:n,buffer:v};return w}function i(){return new r}var a="nr@context",c=e("gos"),u=e(2),f={},s={},p=n.exports=o();p.backlog=f},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&amp;&amp;Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&amp;&amp;"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!b++){var e=y.info=NREUM.info,n=s.getElementsByTagName("script")[0];if(e&amp;&amp;e.licenseKey&amp;&amp;e.applicationID&amp;&amp;n){u(m,function(n,t){e[n]||(e[n]=t)});var t="https"===g.split(":")[0]||e.sslForHttp;y.proto=t?"https://":"http://",c("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+e.agent,n.parentNode.insertBefore(r,n)}}}function o(){"complete"===s.readyState&amp;&amp;i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=e("handle"),u=e(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&amp;&amp;d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},w=d&amp;&amp;v&amp;&amp;v[p]&amp;&amp;!/CriOS/.test(navigator.userAgent),y=n.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader"]);
+  </script>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={});NREUM.info={"agent":"","errorBeacon":"bam.nr-data.net","applicationID":"8724136","transactionName":"ZgMAMhRZX0pZWk1QX19JJBMIW0VQV1cWVEVCDwEVEldDXBZbVUxVQRQLCBJLH0tdVVxYQ1QVTBAPXUZKAlBNXF0=","queueTime":0,"applicationTime":86,"beacon":"bam.nr-data.net","licenseKey":"795ec67f16"}
+  </script>
+  <title>
+   Taal Mala New Releases: Lenses &amp; Mirrors on Beatport
+  </title>
+  <meta name="description" content="" />
+  <meta name="robots" content="index, follow" />
+  <meta name="og:title" content="Lenses &amp; Mirrors" />
+  <meta name="og:description" content="" />
+  <meta name="og:image" content="https://geo-media.beatport.com/image/2999469.jpg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="https://geo-pro.beatport.com/static/9cabb3d2d36a6a3d4e5ea17bcac68286d5d2941b/images/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="60x60" href="https://geo-pro.beatport.com/static/d2572dbc16c5e1c69ad75e7a61272cac9c6bf0cc/images/apple-touch-icon-60x60.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="https://geo-pro.beatport.com/static/208c1ccad566a4dd72499b054044e41c258c5524/images/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="https://geo-pro.beatport.com/static/45fff8bd35634ca06eddfe6d7a1711ce9abab7da/images/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://geo-pro.beatport.com/static/cb351f330fce24b0d21585b9b08a51419ced5ebd/images/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="https://geo-pro.beatport.com/static/e948aacba9fa77fb637703d71b5e4655024fa1e2/images/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="https://geo-pro.beatport.com/static/30762823865c91ca319bd2f13d3bece786793169/images/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="https://geo-pro.beatport.com/static/b8c4cce4d55568b96e35adeb0183bc3af2eafad8/images/apple-touch-icon-152x152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://geo-pro.beatport.com/static/4795be272912c67a8906e45dbf89794903aa7090/images/apple-touch-icon-180x180.png" />
+  <meta name="apple-mobile-web-app-title" content="Beatport" />
+  <link rel="icon" type="image/png" href="https://geo-pro.beatport.com/static/e59b62bd40658fd9aa59b2d0e0ebb21e590b43fc/images/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="https://geo-pro.beatport.com/static/38c132f358c7f13c6e7c175f9e271baedf35e48a/images/favicon-194x194.png" sizes="194x194" />
+  <link rel="icon" type="image/png" href="https://geo-pro.beatport.com/static/68a220c38bfd26da125847065a35ce3945fa38e4/images/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/png" href="https://geo-pro.beatport.com/static/b6d6dd1822d07acf1651df7af80ced311eebbbf5/images/favicon-16x16.png" sizes="16x16" />
+  <meta name="msapplication-TileColor" content="#94d500" />
+  <meta name="msapplication-TileImage" content="https://geo-pro.beatport.com/static/9ea3c41aa9a7aebb1cbc5daa2ff8c657e6e3762a/images/mstile-144x144.png" />
+  <meta name="application-name" content="Beatport" />
+  <meta name="google-site-verification" content="IoEEyWlawkmMAb195buPt3JBQfYb2ykYf2jZ3TbPMVk" />
+  <link rel="stylesheet" type="text/css" href="https://geo-pro.beatport.com/static/0293372147d18d2c46c6be35185a64b8b18fa641/css/screen.css" />
+  <!--[if IE]&gt;
+        &lt;link media="screen, projection" rel="stylesheet" type="text/css" href="https://geo-pro.beatport.com/static/978680734d4c808e4c7fcd6334c3fc80348067ad/css/ie.css"&gt;
+      &lt;![endif]-->
+ </head>
+ <body>
+  <!-- Begin Condensed Navigation -->
+  <!-- Begin Default Header -->
+  <div class="header-container">
+   <!-- Mobile Touch Menu -->
+   <div class="head-mobile-nav">
+    <div class="mobile-menu-icon">
+     <svg class="icon-menu" width="25" height="25">
+      <path d="M0,5 25,5" stroke="#fff" stroke-width="4">
+      </path>
+      <path d="M0,13 25,13" stroke="#fff" stroke-width="4">
+      </path>
+      <path d="M0,21 25,21" stroke="#fff" stroke-width="4">
+      </path>
+     </svg>
+     <span class="icon-close">
+      <svg viewbox="0 0 40 40">
+       <path class="close-x" d="M 10,10 L 30,30 M 30,10 L 10,30">
+       </path>
+      </svg>
+     </span>
+    </div>
+    <div class="mobile-menu-body">
+     <ul>
+      <li class="nav-links genre-parent">
+       <a href="#">
+        <span class="genres-text">
+         Genres
+        </span>
+        <span class="icon icon-slideout-down head-genre-icon">
+        </span>
+       </a>
+       <div class="genres-drop">
+        <div class="genre-drop">
+         <div class="genre-drop-list">
+          <ul class="genre-drop-list-col-one">
+           <li class="genre-drop-list-item">
+            <a href="/genre/breaks/9">
+             Breaks
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/chill-out/10">
+             Chill Out
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/dj-tools/16">
+             DJ Tools
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/deep-house/12">
+             Deep House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/drum-and-bass/1">
+             Drum &amp; Bass
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/dubstep/18">
+             Dubstep
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/electro-house/17">
+             Electro House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/electronica/3">
+             Electronica
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/funk-r-and-b/40">
+             Funk / R&amp;B
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/glitch-hop/49">
+             Glitch Hop
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/hard-dance/8">
+             Hard Dance
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/hardcore-hard-techno/2">
+             Hardcore / Hard Techno
+            </a>
+           </li>
+          </ul>
+          <ul class="genre-drop-list-col-two">
+           <li class="genre-drop-list-item">
+            <a href="/genre/hip-hop/38">
+             Hip-Hop
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/house/5">
+             House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/indie-dance-nu-disco/37">
+             Indie Dance / Nu Disco
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/minimal/14">
+             Minimal
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/pop-rock/39">
+             Pop / Rock
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/progressive-house/15">
+             Progressive House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/psy-trance/13">
+             Psy-Trance
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/reggae-dub/41">
+             Reggae / Dub
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/tech-house/11">
+             Tech House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/techno/6">
+             Techno
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/trance/7">
+             Trance
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="nav-links">
+       <a href="/tracks/all">
+        Tracks
+       </a>
+      </li>
+      <li class="nav-links">
+       <a href="/releases/all">
+        Releases
+       </a>
+      </li>
+      <li class="nav-links">
+       <a href="/charts">
+        Charts
+       </a>
+      </li>
+      <li class="nav-links">
+       <a href="/stems">
+        Stems
+       </a>
+      </li>
+      <li class="nav-links">
+       <a href="https://sounds.beatport.com">
+        Sounds
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <!-- End Mobile Touch Menu -->
+   <header class="header">
+    <a href="/" class="beatport-logo">
+     <svg viewbox="0 0 200 200" alt="Beatport" class="logo-icon logo-icon-default">
+      <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#logo-headphones">
+      </use>
+     </svg>
+     <svg viewbox="0 0 200 200" alt="Beatport" class="logo-icon logo-icon-loading">
+      <!-- NOTE: Chrome does not currently support animations in externally loaded svgs, so we must define this here -->
+      <g>
+       <path d="M172.6,99.6 C172.6,59.6 140,27 100,27 C60,27 27.4,59.6 27.4,99.6
+      C27.4,118.1 34.4,135.8 47.1,149.3 L47.1,149.3 C48.8,151.1 51.6,151.2
+      53.5,149.5 L61.3,142.1 C63.1,140.4 63.2,137.6 61.5,135.8 L61.5,135.8
+      C52.3,126 47.2,113.1 47.2,99.7 C47.2,70.6 70.9,46.9 100,46.9 C129.1,46.9
+      152.8,70.6 152.8,99.7 C152.8,113.2 147.7,126 138.5,135.8 L138.5,135.8
+      C136.8,137.6 136.9,140.4 138.7,142.1 L146.5,149.5 C148.3,151.2 151.2,151.1
+      152.9,149.3 L152.9,149.3 C165.6,135.7 172.6,118.1 172.6,99.6">
+        <animatetransform attributename="transform" type="rotate" from="360 100 100" to="0 100 100" begin="0s" dur="1.2s" values="360 100 100;3 100 100;-3 100 100;0 100 100;0 100 100" keysplines="
+          .5 0 .8 1;
+          0 0 1 1;
+          0 0 1 1;
+          0 0 1 1" keytimes="0;0.5;0.57;0.64;1" calcmode="spline" repeatcount="indefinite">
+        </animatetransform>
+       </path>
+      </g>
+      <g>
+       <path d="M200,99.2 C200,89.3 198.5,79.6 195.6,70.2 L195.6,70.2 L195.6,70.2
+        C194.8,67.9 192.3,66.6 190,67.3 L179.7,70.5 C177.3,71.2 176,73.7
+        176.7,76.1 L176.7,76.1 C179,83.6 180.2,91.3 180.2,99.2 C180.2,113.2
+        176.4,126.8 169.3,138.8 L169.3,138.8 C168,140.9 168.7,143.7 170.9,144.9
+        L180.1,150.4 C182.2,151.7 185,151 186.3,148.9 C195.3,134
+        200,116.8 200,99.2">
+       </path>
+       <path d="M30.7,138.8 C23.6,126.9 19.8,113.2 19.8,99.2 C19.8,91.3 21,83.5
+        23.3,76.1 L23.3,76.1 C24,73.7 22.7,71.2 20.3,70.5 L10,67.3 C7.6,66.6
+        5.1,67.9 4.4,70.2 L4.4,70.2 C1.5,79.6 0,89.3 0,99.2 C0,116.8 4.8,134
+        13.7,149 L13.7,149 C15,151.1 17.7,151.8 19.9,150.5 L29.1,145 C31.2,143.7
+        31.9,140.9 30.7,138.8 L30.7,138.8 L30.7,138.8 Z">
+        <animatetransform attributename="transform" type="rotate" from="0 100 100" to="360 100 100" begin="0s" dur="1.2s" values="0 100 100;363 100 100;357 100 100;360 100 100;360 100 100" keysplines="
+          .5 0 .8 1;
+          0 0 1 1;
+          0 0 1 1;
+          0 0 1 1" keytimes="0;0.5;0.57;0.64;1" calcmode="spline" repeatcount="indefinite">
+        </animatetransform>
+       </path>
+      </g>
+     </svg>
+     <svg viewbox="0 0 935.5 200" alt="Beatport" class="logo-type">
+      <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#logo-type">
+      </use>
+     </svg>
+    </a>
+    <div class="nav-links">
+     <ul>
+      <li class=" genre-parent">
+       <a href="#">
+        <span class="genres-text">
+         Genres
+        </span>
+        <span class="icon icon-slideout-down head-genre-icon">
+        </span>
+       </a>
+       <div class="genres-drop head-drop header-tooltip-menu">
+        <div class="genre-drop">
+         <div class="genre-drop-list">
+          <ul class="genre-drop-list-col-one">
+           <li class="genre-drop-list-item">
+            <a href="/genre/breaks/9">
+             Breaks
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/chill-out/10">
+             Chill Out
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/dj-tools/16">
+             DJ Tools
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/deep-house/12">
+             Deep House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/drum-and-bass/1">
+             Drum &amp; Bass
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/dubstep/18">
+             Dubstep
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/electro-house/17">
+             Electro House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/electronica/3">
+             Electronica
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/funk-r-and-b/40">
+             Funk / R&amp;B
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/glitch-hop/49">
+             Glitch Hop
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/hard-dance/8">
+             Hard Dance
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/hardcore-hard-techno/2">
+             Hardcore / Hard Techno
+            </a>
+           </li>
+          </ul>
+          <ul class="genre-drop-list-col-two">
+           <li class="genre-drop-list-item">
+            <a href="/genre/hip-hop/38">
+             Hip-Hop
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/house/5">
+             House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/indie-dance-nu-disco/37">
+             Indie Dance / Nu Disco
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/minimal/14">
+             Minimal
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/pop-rock/39">
+             Pop / Rock
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/progressive-house/15">
+             Progressive House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/psy-trance/13">
+             Psy-Trance
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/reggae-dub/41">
+             Reggae / Dub
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/tech-house/11">
+             Tech House
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/techno/6">
+             Techno
+            </a>
+           </li>
+           <li class="genre-drop-list-item">
+            <a href="/genre/trance/7">
+             Trance
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="">
+       <a href="/tracks/all">
+        Tracks
+       </a>
+      </li>
+      <li class="">
+       <a href="/releases/all">
+        Releases
+       </a>
+      </li>
+      <li class="">
+       <a href="/charts">
+        Charts
+       </a>
+      </li>
+      <li class="">
+       <a href="/stems">
+        Stems
+       </a>
+      </li>
+      <li class="">
+       <a href="https://sounds.beatport.com">
+        Sounds
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="header-icons">
+     <div class="head-cart-parent ">
+      <a href="/cart" class="head-cart-link">
+       <svg viewbox="0 0 200 200" class="head-cart-icon">
+        <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-cart">
+        </use>
+       </svg>
+       <span class="head-cart-content">
+       </span>
+      </a>
+      <div class="head-hide-drop-animation">
+      </div>
+      <div class="head-drop cart-drop hide header-tooltip-menu">
+       <h3>
+        My Carts
+        <a href="/account/carts" class="cart-drop-settings-link">
+         <svg viewbox="0 0 200 200" class="cart-drop-settings-icon">
+          <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-settings">
+          </use>
+         </svg>
+        </a>
+       </h3>
+       <hr />
+      </div>
+     </div>
+     <div class="head-mybeatport-parent ">
+      <a href="/my-beatport" class="head-mybeatport-link">
+       <svg viewbox="0 0 200 200" class="head-mybeatport-icon">
+        <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-my-beatport">
+        </use>
+       </svg>
+       <span class="head-mybeatport-content">
+        My Beatport
+       </span>
+      </a>
+      <div class="head-hide-drop-animation">
+      </div>
+      <div class="head-drop mybeatport-drop header-tooltip-menu">
+       <!-- My Beatport Logged Out Zero State -->
+       <div class="mybeatport-logged-out-zero">
+        <h2>
+         Sign in to start using My Beatport!
+        </h2>
+        <p class="head-mybeatport-zero-message">
+         My Beatport lets you follow your favorite DJs and labels so you can find out when they release new tracks. Log in or create an account today so you never miss a new release.
+        </p>
+        <a href="/account/signup" class="green-button head-mybeatport-zero-button">
+         Create a Beatport Account
+        </a>
+        <p class="login-link-parent">
+         Already have an account?
+         <a href="/account/login" class="blue-button head-mybeatport-zero-button">
+          Log In
+         </a>
+        </p>
+       </div>
+       <!-- End My Beatport Logged Out Zero -->
+       <!-- My Beatport Logged In Zero State -->
+       <div class="mybeatport-logged-in-zero">
+        <h6>
+         You're not following anyone yet!
+        </h6>
+        <p class="head-mybeatport-zero-message">
+         My Beatport lets you follow your favorite DJs and labels so you can find out when they release new tracks. So go follow someone!
+        </p>
+       </div>
+       <!-- End My Beatport Logged In Zero -->
+       <!-- My Beatport Logged In Data -->
+       <div class="mybeatport-logged-in-data">
+        <!-- End My Beatport Zero State -->
+        <a href="/my-beatport" class="mobile-mybeatport-drop-link">
+         View My Beatport
+        </a>
+        <!-- My Beatport Filter Parent -->
+        <div class="head-mybeatport-filter-parent">
+         <input type="text" class="head-mybeatport-filter" placeholder="FILTER" />
+        </div>
+        <!-- End My Beatport Filter Parent -->
+        <!-- My Beatport Artists Parent -->
+        <div class="head-mybeatport-artists-parent">
+         <h3>
+          My Artists
+          <a href="/my-beatport/artists" class="view-more-link">
+           View All
+          </a>
+         </h3>
+         <hr />
+         <ul class="head-mybeatport-artists">
+         </ul>
+        </div>
+        <!-- End My Beatport Artists Parent -->
+        <!-- My Beatport Labels Parent -->
+        <div class="head-mybeatport-labels-parent">
+         <h3>
+          My Labels
+          <a href="/my-beatport/labels" class="view-more-link">
+           View All
+          </a>
+         </h3>
+         <hr />
+         <ul class="head-mybeatport-labels">
+         </ul>
+        </div>
+        <!-- End My Beatport Labels Parent -->
+       </div>
+       <!-- End My Beatport Logged In Data -->
+      </div>
+      <!-- End Head Drop -->
+     </div>
+     <div class="head-account-parent">
+      <a href="/account/login" class="head-account-link">
+       <svg viewbox="0 0 200 200" class="head-account-icon">
+        <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-user">
+        </use>
+       </svg>
+       <span class="head-account-content">
+       </span>
+      </a>
+      <div class="head-hide-drop-animation">
+      </div>
+      <div class="head-drop account-drop header-tooltip-menu">
+       <div class="account-drop-logged-out">
+        <h2>
+         Welcome to Beatport
+        </h2>
+        <p>
+         Beatport is the world's largest electronic music store for DJs
+        </p>
+        <a href="/account/signup" class="green-button account-drop-signin-button">
+         Create an Account
+        </a>
+        <div class="account-drop-log-in-parent">
+         <h6 class="account-drop-heading account-drop-log-in-heading">
+          <span class="deco">
+          </span>
+          <span class="text">
+           Already have an account? Sign in
+          </span>
+         </h6>
+         <form class="modal-login-signup-form" onsubmit="return false">
+          <p class="login-form-error-message">
+           <span class="icon icon-dead-robot-head">
+           </span>
+           Invalid login. Please try again.
+          </p>
+          <input type="text" name="username" placeholder="Username" required="required" />
+          <input type="password" name="password" placeholder="Password" required="required" />
+          <div class="login-remember-parent">
+           <div class="remember-me-parent">
+            <input type="checkbox" class="remember-me-checkbox" />
+            <label class="remember-me-label">
+             Remember me
+            </label>
+           </div>
+           <input type="submit" class="blue-button" value="Log In" />
+          </div>
+          <div class="forgot-login-link-parent">
+           <a href="/account/forgot-password" class="forgot-login-link">
+            Forgot your username or password?
+           </a>
+          </div>
+         </form>
+        </div>
+       </div>
+       <div class="account-drop-logged-in">
+        <h3>
+         Your Profile
+        </h3>
+        <hr />
+        <a href="/account">
+         Account Settings
+        </a>
+        <a href="/downloads/available">
+         My Downloads
+        </a>
+        <a class="log-out" href="#">
+         Sign Out
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="search">
+     <!-- Mobile Search -->
+     <a href="#" class="mobile-search-launch-link">
+      <svg viewbox="0 0 200 200" class="head-search-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-search">
+       </use>
+      </svg>
+     </a>
+     <div class="mobile-search-parent">
+      <div class="mobile-search">
+       <input type="search" placeholder="SEARCH..." class="mobile-search-input" />
+      </div>
+      <a href="#" class="mobile-cancel-search-link">
+       Cancel
+      </a>
+     </div>
+     <!-- End Mobile Search -->
+     <div class="head-search-parent ">
+      <div class="head-search">
+       <svg viewbox="0 0 200 200" class="head-decorative-search-icon">
+        <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-search">
+        </use>
+       </svg>
+       <input type="search" placeholder="SEARCH..." class="head-search-input" />
+      </div>
+      <a href="#" class="mobile-cancel-search-link">
+       Cancel
+      </a>
+     </div>
+    </div>
+   </header>
+  </div>
+  <script src="https://cdn.ravenjs.com/2.3.0/raven.min.js">
+  </script>
+  <script src="https://geo-pro.beatport.com/static/3b30d16def8f66380de83649b7033d6bde9e3597/js/main.js">
+  </script>
+  <div id="pjax-target">
+   <div id="pjax-inner-wrapper" class="pjax-inner-wrapper">
+    <div class="interior-release-artwork-background-parent">
+     <img src="https://geo-media.beatport.com/image/2999469.jpg" class="interior-release-artwork-background" />
+     <div class="interior-release-gradient-overlay">
+     </div>
+    </div>
+    <!-- Page Content Container -->
+    <section class="page-content-container">
+     <!-- Interior Release -->
+     <main class="interior interior-release-chart interior-release">
+      <!-- Interior Release Artwork Parent -->
+      <div class="interior-release-chart-artwork-parent">
+       <img src="https://geo-media.beatport.com/image/2999469.jpg" class="interior-release-chart-artwork" />
+      </div>
+      <!-- End Interior Release Artwork Parent -->
+      <!-- Interior Release Content -->
+      <div class="interior-release-chart-content">
+       <h3 class="interior-type">
+        Release
+       </h3>
+       <h1>
+        Lenses &amp; Mirrors
+       </h1>
+       <ul class="interior-release-chart-content-list">
+        <li class="interior-release-chart-content-item">
+         <span class="category">
+          Artists
+         </span>
+         <span class="value">
+          <a href="/artist/taal-mala/89580" data-artist="89580">
+           Taal Mala
+          </a>
+         </span>
+        </li>
+        <li class="interior-release-chart-content-item">
+         <span class="category">
+          Release Date
+         </span>
+         <span class="value">
+          2011-07-05
+         </span>
+        </li>
+        <li class="interior-release-chart-content-item">
+         <span class="category">
+          Labels
+         </span>
+         <span class="value">
+          <a href="/label/aufect-recordings/20310" data-label="20310">
+           Aufect Recordings
+          </a>
+         </span>
+        </li>
+        <li class="interior-release-chart-content-item">
+         <span class="category">
+          Catalog
+         </span>
+         <span class="value">
+          AUFDM006
+         </span>
+        </li>
+        <li class="interior-release-chart-content-item interior-release-chart-actions">
+         <span data-release="390011" data-tracks="2008277,2008278" class="icon icon-play playable-play-all">
+         </span>
+         <span data-release="390011" data-tracks="2008277,2008278" class="icon icon-add-queue playable-queue-all">
+         </span>
+         <div class="buy-button interior-release-chart-buy-button" data-release="390011" data-price="$2.98">
+          <button class="add-to-default">
+           $2.98
+          </button>
+          <button class="launch-menu">
+           <svg viewbox="0 0 200 200" class="launch-menu-icon">
+            <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+            </use>
+           </svg>
+           <svg viewbox="0 0 200 200" class="loading-menu-icon">
+            <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+            </use>
+           </svg>
+          </button>
+         </div>
+         <div class="share-buttons">
+          <a href="#" class="share-button share-twitter-button" data-type="release" data-id="390011">
+           <span class="icon icon-twitter">
+           </span>
+          </a>
+          <a href="#" class="share-button share-facebook-button" data-type="release" data-id="390011">
+           <span class="icon icon-facebook">
+           </span>
+          </a>
+          <!--&lt;a href="#" class="share-button share-google-button"&gt;&lt;span class="icon icon-google"&gt;&lt;/span&gt;&lt;/a&gt;-->
+         </div>
+        </li>
+       </ul>
+      </div>
+      <!-- End Interior Release Chart Content -->
+      <!-- Full Col -->
+      <div class="full-col">
+       <div class="bucket tracks interior-release-tracks">
+        <h2>
+         2 Tracks Total
+        </h2>
+        <div class="bucket-track-header">
+         <div class="bucket-track-header-meta">
+          <p class="buk-track-title bucket-track-header-col">
+           Title
+          </p>
+          <p class="buk-track-artists bucket-track-header-col">
+           Artists
+          </p>
+          <p class="buk-track-remixers bucket-track-header-col">
+           Remixers
+          </p>
+          <p class="buk-track-genre bucket-track-header-col">
+           Genre
+          </p>
+          <p class="buk-track-bpm bucket-track-header-col">
+           BPM
+          </p>
+          <p class="buk-track-key bucket-track-header-col">
+           Key
+          </p>
+          <p class="buk-track-length bucket-track-header-col">
+           Length
+          </p>
+         </div>
+        </div>
+        <ul class="bucket-items ">
+         <li class="bucket-item track">
+          <div class="buk-track-artwork-parent">
+           <a href="/release/lenses-and-mirrors/390011">
+            <img class="buk-track-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/95x95/2999469.jpg" />
+           </a>
+          </div>
+          <div class="buk-track-num">
+           1
+          </div>
+          <div class="buk-track-meta-parent">
+           <p class="buk-track-title">
+            <a href="/track/lenses-original-mix/2008277">
+             <span class="buk-track-primary-title" title="Lenses">
+              Lenses
+             </span>
+             <span class="buk-track-remixed">
+              Original Mix
+             </span>
+            </a>
+           </p>
+           <p class="buk-track-artists">
+            <a href="/artist/taal-mala/89580" data-artist="89580">
+             Taal Mala
+            </a>
+           </p>
+           <p class="buk-track-remixers">
+           </p>
+           <p class="buk-track-genre">
+            <a href="/genre/dubstep/18" data-genre="18">
+             Dubstep
+            </a>
+           </p>
+           <p class="buk-track-bpm">
+            140
+           </p>
+           <p class="buk-track-key">
+            A maj
+           </p>
+           <p class="buk-track-length">
+            5:36
+           </p>
+          </div>
+          <div class="track-actions-parent">
+           <div class="track-actions">
+            <div class="track-play-queue">
+             <button href="#" class="playable-play track-play" data-track="2008277">
+              <svg viewbox="0 0 200 200" class="track-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+              <svg viewbox="0 0 100 100" class="track-replay-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-replay">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue track-queue" data-track="2008277">
+              <svg viewbox="0 0 200 200" class="track-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+             <div class="equalizer-container">
+              <img src="https://geo-pro.beatport.com/static/92d662f4a8de3c3fac7f08fc064bc1a12eb20e85/images/now-playing-animation.gif" width="20" class="track-now-playing" />
+              <img src="https://geo-pro.beatport.com/static/d3d571e77b4781d2bea448e23ea5236c7e34d4c4/images/now-playing-paused.png" width="20" class="track-now-playing-paused" />
+             </div>
+            </div>
+            <div class="buy-button track-buy-button" data-track="2008277" data-price="$1.49">
+             <button class="add-to-default">
+              $1.49
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis track-ellipsis mobile-action">
+           </a>
+          </div>
+         </li>
+         <li class="bucket-item track">
+          <div class="buk-track-artwork-parent">
+           <a href="/release/lenses-and-mirrors/390011">
+            <img class="buk-track-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/95x95/2999469.jpg" />
+           </a>
+          </div>
+          <div class="buk-track-num">
+           2
+          </div>
+          <div class="buk-track-meta-parent">
+           <p class="buk-track-title">
+            <a href="/track/mirrors-original-mix/2008278">
+             <span class="buk-track-primary-title" title="Mirrors">
+              Mirrors
+             </span>
+             <span class="buk-track-remixed">
+              Original Mix
+             </span>
+            </a>
+           </p>
+           <p class="buk-track-artists">
+            <a href="/artist/taal-mala/89580" data-artist="89580">
+             Taal Mala
+            </a>
+           </p>
+           <p class="buk-track-remixers">
+           </p>
+           <p class="buk-track-genre">
+            <a href="/genre/dubstep/18" data-genre="18">
+             Dubstep
+            </a>
+           </p>
+           <p class="buk-track-bpm">
+            140
+           </p>
+           <p class="buk-track-key">
+            A min
+           </p>
+           <p class="buk-track-length">
+            5:58
+           </p>
+          </div>
+          <div class="track-actions-parent">
+           <div class="track-actions">
+            <div class="track-play-queue">
+             <button href="#" class="playable-play track-play" data-track="2008278">
+              <svg viewbox="0 0 200 200" class="track-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+              <svg viewbox="0 0 100 100" class="track-replay-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-replay">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue track-queue" data-track="2008278">
+              <svg viewbox="0 0 200 200" class="track-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+             <div class="equalizer-container">
+              <img src="https://geo-pro.beatport.com/static/92d662f4a8de3c3fac7f08fc064bc1a12eb20e85/images/now-playing-animation.gif" width="20" class="track-now-playing" />
+              <img src="https://geo-pro.beatport.com/static/d3d571e77b4781d2bea448e23ea5236c7e34d4c4/images/now-playing-paused.png" width="20" class="track-now-playing-paused" />
+             </div>
+            </div>
+            <div class="buy-button track-buy-button" data-track="2008278" data-price="$1.49">
+             <button class="add-to-default">
+              $1.49
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis track-ellipsis mobile-action">
+           </a>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- End Full Col -->
+     </main>
+     <!-- End Interior Release Main -->
+     <div class="full-col">
+      <div id="slider-releases-also-bought-for-release" class="bucket releases">
+       <h2>
+        People Also Bought
+       </h2>
+       <div class="scroll-arrows ">
+        <a href="#" class="icon icon-scroll-left left-arrow">
+        </a>
+        <a href="#" class="icon icon-scroll-right right-arrow">
+        </a>
+       </div>
+       <!-- LOADING OVERLAY -->
+       <div class="bucket-loading">
+        <img class="bucket-loading-animation" src="https://geo-pro.beatport.com/static/fc316475dae48a8bd05a6e9ae87062493f0c58d5/images/loading.gif" />
+       </div>
+       <!-- END LOADING OVERLAY -->
+       <ul class="bucket-items limited-bucket-items">
+        <li class="bucket-item release">
+         <a href="/release/freight-rejo/1033588" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/6709865.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/freight-rejo/1033588">
+           </a>
+           <p class="release-title">
+            <a href="/release/freight-rejo/1033588">
+             Freight / Rejo
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/kuoyah/118124" data-artist="118124">
+             Kuoyah
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/frijsfo-beats/13735" data-label="13735">
+             Frijsfo Beats
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="1033588">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="1033588">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="1033588" data-price="$2.98">
+             <button class="add-to-default">
+              $2.98
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/rivet/940815" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/5713203.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/rivet/940815">
+           </a>
+           <p class="release-title">
+            <a href="/release/rivet/940815">
+             Rivet
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/djg/12110" data-artist="12110">
+             DJG
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/get-darker/14130" data-label="14130">
+             Get Darker
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="940815">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="940815">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="940815" data-price="$4.47">
+             <button class="add-to-default">
+              $4.47
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/cell-biology-collapse/888202" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/5170189.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/cell-biology-collapse/888202">
+           </a>
+           <p class="release-title">
+            <a href="/release/cell-biology-collapse/888202">
+             Cell Biology / Collapse
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/mindmapper/91581" data-artist="91581">
+             Mindmapper
+            </a>
+            ,
+            <a href="/artist/silvahfonk/239651" data-artist="239651">
+             Silvahfonk
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/soundium-x/19189" data-label="19189">
+             Soundium X
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="888202">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="888202">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="888202" data-price="$2.98">
+             <button class="add-to-default">
+              $2.98
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/hoof-hearted/875526" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/5046102.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/hoof-hearted/875526">
+           </a>
+           <p class="release-title">
+            <a href="/release/hoof-hearted/875526">
+             Hoof Hearted
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/self-evident/93916" data-artist="93916">
+             Self Evident
+            </a>
+            ,
+            <a href="/artist/hxdb/112823" data-artist="112823">
+             Hxdb
+            </a>
+            ,
+            <a href="/artist/max-ulis/196514" data-artist="196514">
+             Max Ulis
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/palms-out-sounds/12036" data-label="12036">
+             Palms Out Sounds
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="875526">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="875526">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="875526" data-price="$4.47">
+             <button class="add-to-default">
+              $4.47
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/someone-ep/404583" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/3126592.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/someone-ep/404583">
+           </a>
+           <p class="release-title">
+            <a href="/release/someone-ep/404583">
+             Someone EP
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/the-prototypes/134041" data-artist="134041">
+             The Prototypes
+            </a>
+            ,
+            <a href="/artist/rockwell/33347" data-artist="33347">
+             Rockwell
+            </a>
+            ,
+            <a href="/artist/mclean/20373" data-artist="20373">
+             McLean
+            </a>
+            ,
+            <a href="/artist/friction/55615" data-artist="55615">
+             Friction
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/shogun-audio/6262" data-label="6262">
+             Shogun Audio
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="404583">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="404583">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="404583" data-price="$5.96">
+             <button class="add-to-default">
+              $5.96
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/ram-100/396687" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/3056841.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/ram-100/396687">
+           </a>
+           <p class="release-title">
+            <a href="/release/ram-100/396687">
+             RAM 100
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/noisia/912" data-artist="912">
+             Noisia
+            </a>
+            ,
+            <a href="/artist/dirtyphonics/92488" data-artist="92488">
+             Dirtyphonics
+            </a>
+            ,
+            <a href="/artist/sub-focus/3420" data-artist="3420">
+             Sub Focus
+            </a>
+            ,
+            <a href="/artist/culture-shock/46803" data-artist="46803">
+             Culture Shock
+            </a>
+            ,
+            <a href="/artist/andy-c/3393" data-artist="3393">
+             Andy C
+            </a>
+            ,
+            <a href="/artist/ram-trilogy/162" data-artist="162">
+             Ram Trilogy
+            </a>
+            ,
+            <a href="/artist/loadstar/153622" data-artist="153622">
+             Loadstar
+            </a>
+            ,
+            <a href="/artist/wilkinson/135833" data-artist="135833">
+             Wilkinson
+            </a>
+            ,
+            <a href="/artist/delta-heavy/120466" data-artist="120466">
+             Delta Heavy
+            </a>
+            ,
+            <a href="/artist/hamilton/94489" data-artist="94489">
+             Hamilton
+            </a>
+            ,
+            <a href="/artist/dc-breaks/7664" data-artist="7664">
+             DC Breaks
+            </a>
+            ,
+            <a href="/artist/mind-vortex/141961" data-artist="141961">
+             Mind Vortex
+            </a>
+            ,
+            <a href="/artist/shimon/3394" data-artist="3394">
+             Shimon
+            </a>
+            ,
+            <a href="/artist/ant-miles/3400" data-artist="3400">
+             Ant Miles
+            </a>
+            ,
+            <a href="/artist/boneshaker/8714" data-artist="8714">
+             Boneshaker
+            </a>
+            ,
+            <a href="/artist/moving-fusion/3392" data-artist="3392">
+             Moving Fusion
+            </a>
+            ,
+            <a href="/artist/basher/51935" data-artist="51935">
+             Basher
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/ram-records/395" data-label="395">
+             RAM Records
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="396687">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="396687">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="396687" data-price="$11.99">
+             <button class="add-to-default">
+              $11.99
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/foreplay-ep/394493" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/3037788.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/foreplay-ep/394493">
+           </a>
+           <p class="release-title">
+            <a href="/release/foreplay-ep/394493">
+             Foreplay EP
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/tantrum-desire/53018" data-artist="53018">
+             Tantrum Desire
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/technique-recordings/3419" data-label="3419">
+             Technique Recordings
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="394493">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="394493">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="394493" data-price="$5.96">
+             <button class="add-to-default">
+              $5.96
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+       </ul>
+       <div class="scroll-placement-bars release-scroll-placement-bars">
+       </div>
+      </div>
+      <div id="slider-more-from-label-for-release" class="bucket releases">
+       <h2>
+        More From This Label
+       </h2>
+       <div class="scroll-arrows ">
+        <a href="#" class="icon icon-scroll-left left-arrow">
+        </a>
+        <a href="#" class="icon icon-scroll-right right-arrow">
+        </a>
+       </div>
+       <!-- LOADING OVERLAY -->
+       <div class="bucket-loading">
+        <img class="bucket-loading-animation" src="https://geo-pro.beatport.com/static/fc316475dae48a8bd05a6e9ae87062493f0c58d5/images/loading.gif" />
+       </div>
+       <!-- END LOADING OVERLAY -->
+       <ul class="bucket-items limited-bucket-items">
+        <li class="bucket-item release">
+         <a href="/release/diamonds-ep/1701341" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/13136453.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/diamonds-ep/1701341">
+           </a>
+           <p class="release-title">
+            <a href="/release/diamonds-ep/1701341">
+             Diamonds EP
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/levrige/525786" data-artist="525786">
+             Levrige
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/aufect-recordings/20310" data-label="20310">
+             Aufect Recordings
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="1701341">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="1701341">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="1701341" data-price="$5.96">
+             <button class="add-to-default">
+              $5.96
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/tunnel-vision-ep/1663185" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/12766500.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/tunnel-vision-ep/1663185">
+           </a>
+           <p class="release-title">
+            <a href="/release/tunnel-vision-ep/1663185">
+             Tunnel Vision EP
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/kid-kurse/478522" data-artist="478522">
+             Kid Kurse
+            </a>
+            ,
+            <a href="/artist/greazus/491912" data-artist="491912">
+             Greazus
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/aufect-recordings/20310" data-label="20310">
+             Aufect Recordings
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="1663185">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="1663185">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="1663185" data-price="$4.47">
+             <button class="add-to-default">
+              $4.47
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/sound-the-alarm-ep/1603785" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/12222702.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/sound-the-alarm-ep/1603785">
+           </a>
+           <p class="release-title">
+            <a href="/release/sound-the-alarm-ep/1603785">
+             Sound The Alarm EP
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/kid-kurse-and-carpe-noctum/504947" data-artist="504947">
+             Kid Kurse &amp; Carpe Noctum
+            </a>
+            ,
+            <a href="/artist/2222/504948" data-artist="504948">
+             2222
+            </a>
+            ,
+            <a href="/artist/konka/504949" data-artist="504949">
+             Konka
+            </a>
+            ,
+            <a href="/artist/toltek/504950" data-artist="504950">
+             Toltek
+            </a>
+            ,
+            <a href="/artist/greazus/491912" data-artist="491912">
+             Greazus
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/aufect-recordings/20310" data-label="20310">
+             Aufect Recordings
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="1603785">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="1603785">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="1603785" data-price="$7.45">
+             <button class="add-to-default">
+              $7.45
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/moon-blank/1392906" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/10244557.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/moon-blank/1392906">
+           </a>
+           <p class="release-title">
+            <a href="/release/moon-blank/1392906">
+             Moon Blank
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/kline/72189" data-artist="72189">
+             Kline
+            </a>
+            ,
+            <a href="/artist/patrik-cure/348414" data-artist="348414">
+             Patrik Cure
+            </a>
+            ,
+            <a href="/artist/bsmnt/383052" data-artist="383052">
+             BSMNT
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/aufect-recordings/20310" data-label="20310">
+             Aufect Recordings
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="1392906">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="1392906">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="1392906" data-price="$7.45">
+             <button class="add-to-default">
+              $7.45
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/distribute-ep/1129609" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/7822423.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/distribute-ep/1129609">
+           </a>
+           <p class="release-title">
+            <a href="/release/distribute-ep/1129609">
+             Distribute EP
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/hesk/287030" data-artist="287030">
+             Hesk
+            </a>
+            ,
+            <a href="/artist/thomas-white-mtl/298522" data-artist="298522">
+             Thomas White (MTL)
+            </a>
+            ,
+            <a href="/artist/patrik-cure/348414" data-artist="348414">
+             Patrik Cure
+            </a>
+            ,
+            <a href="/artist/vlsonn/132926" data-artist="132926">
+             Vlsonn
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/aufect-recordings/20310" data-label="20310">
+             Aufect Recordings
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="1129609">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="1129609">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="1129609" data-price="$7.45">
+             <button class="add-to-default">
+              $7.45
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/in-some-time-e-p/1100662" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/7520745.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/in-some-time-e-p/1100662">
+           </a>
+           <p class="release-title">
+            <a href="/release/in-some-time-e-p/1100662">
+             In Some Time E.P.
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/bassmynt/183673" data-artist="183673">
+             Bassmynt
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/aufect-recordings/20310" data-label="20310">
+             Aufect Recordings
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="1100662">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="1100662">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="1100662" data-price="$8.94">
+             <button class="add-to-default">
+              $8.94
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="bucket-item release">
+         <a href="/release/hefty-ep/1040156" class="release-artwork-parent">
+          <img class="release-artwork lazy-load" src="https://geo-pro.beatport.com/static/119a32ce54609f5e3deefe01ac54582d9fac8eba/images/empty.png" data-src="https://geo-media.beatport.com/image_size_hq/250x250/6811536.jpg" />
+         </a>
+         <div class="release-meta-parent">
+          <div class="release-meta">
+           <a href="/release/hefty-ep/1040156">
+           </a>
+           <p class="release-title">
+            <a href="/release/hefty-ep/1040156">
+             Hefty EP
+            </a>
+           </p>
+           <p class="release-artists">
+            <a href="/artist/vlsonn/132926" data-artist="132926">
+             Vlsonn
+            </a>
+           </p>
+           <p class="release-label">
+            <a href="/label/aufect-recordings/20310" data-label="20310">
+             Aufect Recordings
+            </a>
+           </p>
+          </div>
+          <div class="release-actions-parent">
+           <div class="release-actions">
+            <div class="release-play-queue">
+             <button class="playable-play release-play" data-release="1040156">
+              <svg viewbox="0 0 200 200" class="release-play-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+               </use>
+              </svg>
+             </button>
+             <button class="playable-queue release-queue" data-release="1040156">
+              <svg viewbox="0 0 200 200" class="release-queue-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-add-queue">
+               </use>
+              </svg>
+             </button>
+            </div>
+            <div class="buy-button release-buy-button" data-release="1040156" data-price="$5.96">
+             <button class="add-to-default">
+              $5.96
+             </button>
+             <button class="launch-menu">
+              <svg viewbox="0 0 200 200" class="launch-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+               </use>
+              </svg>
+              <svg viewbox="0 0 200 200" class="loading-menu-icon">
+               <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+               </use>
+              </svg>
+             </button>
+            </div>
+           </div>
+           <a href="#" class="icon icon-ellipsis release-ellipsis mobile-action">
+           </a>
+          </div>
+         </div>
+        </li>
+       </ul>
+       <div class="scroll-placement-bars release-scroll-placement-bars">
+       </div>
+      </div>
+     </div>
+     <!-- End Full Col -->
+    </section>
+    <!-- End Page Content Container -->
+   </div>
+  </div>
+  <script id="data-objects">
+   window.PageTitle = "Taal Mala New Releases: Lenses &amp; Mirrors on Beatport";
+         window.Playables = {
+  "mixes": [],
+  "packs": [],
+  "stems": [],
+  "tracks": [
+    {
+      "active": true,
+      "artists": [
+        {
+          "id": 89580,
+          "name": "Taal Mala",
+          "slug": "taal-mala"
+        }
+      ],
+      "audio_format": "mp3",
+      "bpm": 140,
+      "date": {
+        "published": "2011-07-05",
+        "released": "2011-07-05"
+      },
+      "duration": {
+        "milliseconds": 336250,
+        "minutes": "5:36"
+      },
+      "exclusive": false,
+      "formats": {
+        "aiff": {
+          "code": "USD",
+          "display": "$0.75",
+          "symbol": "$",
+          "value": 0.75
+        },
+        "wav": {
+          "code": "USD",
+          "display": "$0.75",
+          "symbol": "$",
+          "value": 0.75
+        }
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dubstep",
+          "slug": "dubstep"
+        }
+      ],
+      "guest_pick": false,
+      "id": 2008277,
+      "images": {
+        "dynamic": {
+          "id": 2999469,
+          "url": "https://geo-media.beatport.com/image_size{hq}/{w}x{h}/2999469.jpg"
+        },
+        "large": {
+          "height": 500,
+          "id": 2999469,
+          "url": "https://geo-media.beatport.com/image/2999469.jpg",
+          "width": 500
+        },
+        "medium": {
+          "height": 60,
+          "id": 2999468,
+          "url": "https://geo-media.beatport.com/image/2999468.jpg",
+          "width": 60
+        },
+        "small": {
+          "height": 30,
+          "id": 2999467,
+          "url": "https://geo-media.beatport.com/image/2999467.jpg",
+          "width": 30
+        }
+      },
+      "key": "A maj",
+      "label": {
+        "id": 20310,
+        "name": "Aufect Recordings",
+        "slug": "aufect-recordings"
+      },
+      "mix": "Original Mix",
+      "name": "Lenses",
+      "preview": {
+        "mp3": {
+          "offset": {
+            "end": 254589,
+            "start": 134500
+          },
+          "url": "https://geo-samples.beatport.com/lofi/2008277.LOFI.mp3"
+        },
+        "mp4": {
+          "offset": null,
+          "url": null
+        }
+      },
+      "price": {
+        "code": "USD",
+        "display": "$1.49",
+        "symbol": "$",
+        "value": 1.49
+      },
+      "purchase": 1,
+      "purchase_type": null,
+      "release": {
+        "id": 390011,
+        "name": "Lenses &amp; Mirrors",
+        "slug": "lenses-and-mirrors"
+      },
+      "remixers": [],
+      "slug": "lenses-original-mix",
+      "sponsored": false,
+      "title": "Lenses (Original Mix)",
+      "type": "track",
+      "waveform": {
+        "dynamic": {
+          "id": 2999499,
+          "url": "https://geo-media.beatport.com/image_size{hq}/{w}x{h}/2999499.png"
+        },
+        "large": {
+          "height": 250,
+          "id": 2999499,
+          "url": "https://geo-media.beatport.com/image/2999499.png",
+          "width": 1500
+        }
+      }
+    },
+    {
+      "active": true,
+      "artists": [
+        {
+          "id": 89580,
+          "name": "Taal Mala",
+          "slug": "taal-mala"
+        }
+      ],
+      "audio_format": "mp3",
+      "bpm": 140,
+      "date": {
+        "published": "2011-07-05",
+        "released": "2011-07-05"
+      },
+      "duration": {
+        "milliseconds": 358250,
+        "minutes": "5:58"
+      },
+      "exclusive": false,
+      "formats": {
+        "aiff": {
+          "code": "USD",
+          "display": "$0.75",
+          "symbol": "$",
+          "value": 0.75
+        },
+        "wav": {
+          "code": "USD",
+          "display": "$0.75",
+          "symbol": "$",
+          "value": 0.75
+        }
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dubstep",
+          "slug": "dubstep"
+        }
+      ],
+      "guest_pick": false,
+      "id": 2008278,
+      "images": {
+        "dynamic": {
+          "id": 2999469,
+          "url": "https://geo-media.beatport.com/image_size{hq}/{w}x{h}/2999469.jpg"
+        },
+        "large": {
+          "height": 500,
+          "id": 2999469,
+          "url": "https://geo-media.beatport.com/image/2999469.jpg",
+          "width": 500
+        },
+        "medium": {
+          "height": 60,
+          "id": 2999468,
+          "url": "https://geo-media.beatport.com/image/2999468.jpg",
+          "width": 60
+        },
+        "small": {
+          "height": 30,
+          "id": 2999467,
+          "url": "https://geo-media.beatport.com/image/2999467.jpg",
+          "width": 30
+        }
+      },
+      "key": "A min",
+      "label": {
+        "id": 20310,
+        "name": "Aufect Recordings",
+        "slug": "aufect-recordings"
+      },
+      "mix": "Original Mix",
+      "name": "Mirrors",
+      "preview": {
+        "mp3": {
+          "offset": {
+            "end": 263383,
+            "start": 143300
+          },
+          "url": "https://geo-samples.beatport.com/lofi/2008278.LOFI.mp3"
+        },
+        "mp4": {
+          "offset": null,
+          "url": null
+        }
+      },
+      "price": {
+        "code": "USD",
+        "display": "$1.49",
+        "symbol": "$",
+        "value": 1.49
+      },
+      "purchase": 1,
+      "purchase_type": null,
+      "release": {
+        "id": 390011,
+        "name": "Lenses &amp; Mirrors",
+        "slug": "lenses-and-mirrors"
+      },
+      "remixers": [],
+      "slug": "mirrors-original-mix",
+      "sponsored": false,
+      "title": "Mirrors (Original Mix)",
+      "type": "track",
+      "waveform": {
+        "dynamic": {
+          "id": 2999500,
+          "url": "https://geo-media.beatport.com/image_size{hq}/{w}x{h}/2999500.png"
+        },
+        "large": {
+          "height": 250,
+          "id": 2999500,
+          "url": "https://geo-media.beatport.com/image/2999500.png",
+          "width": 1500
+        }
+      }
+    }
+  ]
+};
+         window.Sliders = [
+  {
+    "container": "slider-releases-also-bought-for-release",
+    "name": "releases-also-bought-for-release",
+    "page": 1,
+    "paginated": true,
+    "total": 17,
+    "url": "/api/slidables/releases-also-bought-for-release/390011"
+  },
+  {
+    "container": "slider-more-from-label-for-release",
+    "name": "more-from-label-for-release",
+    "page": 1,
+    "paginated": true,
+    "total": 21,
+    "url": "/api/slidables/more-from-label-for-release/390011"
+  }
+];
+         window.Assets = {
+           spinner: 'https://geo-pro.beatport.com/static/ece26cad56e50761f5d85c863177aa3062840044/images/loading-small.gif',
+           soundWaveform: 'https://geo-pro.beatport.com/static/0d4268a5e6bbf0c3a64ed6a7bd7aa7ae2db140c2/images/no-waveform-in-player.png',
+           soundmanager: 'https://geo-pro.beatport.com/static/3b30d16def8f66380de83649b7033d6bde9e3597/js/' + 'vendors/SoundManager2/swf/soundmanager2.swf'
+         };
+  </script>
+  <script id="modal-login-template" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Login to Proceed&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-checkout-login-main-content"&gt;
+      &lt;div class="existing-users"&gt;
+        &lt;h2&gt;Existing Users&lt;/h2&gt;
+        &lt;form class="modal-checkout-login-form"&gt;
+          &lt;p class="login-form-error-message"&gt;&lt;span class="icon icon-dead-robot-head"&gt;&lt;/span&gt;Invalid login. Please try again.&lt;/p&gt;
+          &lt;input type="text" placeholder="Username"&gt;
+          &lt;input type="password" placeholder="Password"&gt;
+          &lt;div class="forgot-login-link-parent"&gt;
+            &lt;a href="/account/forgot-password" class="forgot-login-link"&gt;Forgot something?&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class="login-remember-parent"&gt;
+            &lt;a href="#" class="blue-button"&gt;Log In&lt;/a&gt;
+            &lt;div class="remember-me-parent"&gt;
+              &lt;input type="checkbox" class="remember-me-checkbox"&gt;
+              &lt;label class="remember-me-label"&gt;Remember me&lt;/label&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/form&gt;
+      &lt;/div&gt;
+      &lt;div class="new-users"&gt;
+        &lt;h2&gt;New Users&lt;/h2&gt;
+        &lt;a href="#" class="green-button"&gt;Create a Beatport account&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-unsaved-changes-template" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Unsaved Changes&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-save-changes-main-content"&gt;
+      &lt;p&gt;You have unsaved changes. Are you sure you want to navigate away from this page?&lt;/p&gt;
+      &lt;div class="modal-button-choices"&gt;
+        &lt;a href="#" class="gray-button cancel-button"&gt;Cancel&lt;/a&gt;
+        &lt;a href="#" class="blue-button continue-button"&gt;Continue&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-clear-billing-confirmation" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Clear Billing Info&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-save-changes-main-content"&gt;
+      &lt;p&gt;Are you sure you want to clear your billing information?&lt;/p&gt;
+      &lt;div class="modal-button-choices"&gt;
+        &lt;button class="gray-button cancel-button"&gt;Cancel&lt;/button&gt;
+        &lt;button class="blue-button continue-button"&gt;Yes, I'm sure&lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-checkout-login-template" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Proceed to Checkout&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-login-signup-main-content"&gt;
+      &lt;div class="existing-users"&gt;
+        &lt;h2&gt;Existing Users&lt;/h2&gt;
+        &lt;form class="modal-login-signup-form"&gt;
+          &lt;p class="login-form-error-message"&gt;&lt;span class="icon icon-dead-robot-head"&gt;&lt;/span&gt;Invalid login. Please try again.&lt;/p&gt;
+          &lt;input type="text" name="username" placeholder="Username" required="required"&gt;
+          &lt;input type="password" name="password" placeholder="Password" required="required"&gt;
+          &lt;div class="forgot-login-link-parent"&gt;
+            &lt;a href="/account/forgot-password" class="forgot-login-link"&gt;Forgot something?&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class="login-remember-parent"&gt;
+            &lt;input type="submit" class="blue-button" value="Log In"&gt;
+            &lt;div class="remember-me-parent"&gt;
+              &lt;input type="checkbox" class="remember-me-checkbox"&gt;
+              &lt;label class="remember-me-label"&gt;Remember me&lt;/label&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/form&gt;
+        &lt;p class="old-social-users"&gt;Used to log in with social media? &lt;a href="/account/social-relink"&gt;Log in here.&lt;/a&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class="new-users"&gt;
+        &lt;h2&gt;New Users&lt;/h2&gt;
+        &lt;a href="/account/signup" class="green-button"&gt;Create a Beatport account &amp; Checkout&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-login-to-continue-template" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Please login&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-login-signup-main-content"&gt;
+      &lt;div class="existing-users"&gt;
+        &lt;h2&gt;Existing Users&lt;/h2&gt;
+        &lt;form class="modal-login-signup-form"&gt;
+          &lt;p class="login-form-error-message"&gt;&lt;span class="icon icon-dead-robot-head"&gt;&lt;/span&gt;Invalid login. Please try again.&lt;/p&gt;
+          &lt;input type="text" name="username" placeholder="Username" required="required"&gt;
+          &lt;input type="password" name="password" placeholder="Password" required="required"&gt;
+          &lt;div class="forgot-login-link-parent"&gt;
+            &lt;a href="/account/forgot-password" class="forgot-login-link"&gt;Forgot something?&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class="login-remember-parent"&gt;
+            &lt;input type="submit" class="blue-button" value="Log In"&gt;
+            &lt;div class="remember-me-parent"&gt;
+              &lt;input type="checkbox" class="remember-me-checkbox"&gt;
+              &lt;label class="remember-me-label"&gt;Remember me&lt;/label&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/form&gt;
+   <!--p class="old-social-users"&gt;Used to log in with social media? &lt;a href="/account/social-relink"&gt;Log in here.&lt;/a&gt;
+        &lt;/p-->
+   &lt;/div&gt;
+      &lt;div class="new-users"&gt;
+        &lt;h2&gt;New Users&lt;/h2&gt;
+        &lt;a href="/account/signup" class="green-button"&gt;Create a Beatport account&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-add-to-cart-login-template" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Please login&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-login-signup-main-content"&gt;
+      &lt;p class="modal-add-to-cart-login-message"&gt;In order to add items to your cart, you must log in or create a Beatport account.&lt;/p&gt;
+      &lt;div class="existing-users"&gt;
+        &lt;h2&gt;Existing Users&lt;/h2&gt;
+        &lt;form class="modal-login-signup-form"&gt;
+          &lt;p class="login-form-error-message"&gt;&lt;span class="icon icon-dead-robot-head"&gt;&lt;/span&gt;Invalid login. Please try again.&lt;/p&gt;
+          &lt;input type="text" name="username" placeholder="Username" required="required"&gt;
+          &lt;input type="password" name="password" placeholder="Password" required="required"&gt;
+          &lt;div class="forgot-login-link-parent"&gt;
+            &lt;a href="/account/forgot-password" class="forgot-login-link"&gt;Forgot something?&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class="login-remember-parent"&gt;
+            &lt;input type="submit" class="blue-button" value="Log In"&gt;
+            &lt;div class="remember-me-parent"&gt;
+              &lt;input type="checkbox" class="remember-me-checkbox"&gt;
+              &lt;label class="remember-me-label"&gt;Remember me&lt;/label&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/form&gt;
+   <!--p class="old-social-users"&gt;Used to log in with social media? &lt;a href="/account/social-relink"&gt;Log in here.&lt;/a-->
+   &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class="new-users"&gt;
+        &lt;h2&gt;New Users&lt;/h2&gt;
+        &lt;a href="/account/signup" class="green-button"&gt;Create a Beatport account&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-mybeatport-login-template" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Log in to follow&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-login-signup-main-content"&gt;
+      &lt;p class="modal-mybeatport-login-message"&gt;&lt;em&gt;My Beatport&lt;/em&gt; allows you to follow your favorite artists and labels so you can recieve updates when they release new tracks.&lt;/p&gt;
+      &lt;p class="modal-mybeatport-login-message"&gt;You must log in to use My Beatport so we can save the artists and labels you’re following.&lt;/p&gt;
+      &lt;div class="existing-users"&gt;
+        &lt;h2&gt;Existing Users&lt;/h2&gt;
+        &lt;form class="modal-login-signup-form"&gt;
+          &lt;p class="login-form-error-message"&gt;&lt;span class="icon icon-dead-robot-head"&gt;&lt;/span&gt;Invalid login. Please try again.&lt;/p&gt;
+          &lt;input type="text" name="username" placeholder="Username" required="required"&gt;
+          &lt;input type="password" name="password" placeholder="Password" required="required"&gt;
+          &lt;div class="forgot-login-link-parent"&gt;
+            &lt;a href="/account/forgot-password" class="forgot-login-link"&gt;Forgot something?&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class="login-remember-parent"&gt;
+            &lt;input type="submit" class="blue-button" value="Log In"&gt;
+            &lt;div class="remember-me-parent"&gt;
+              &lt;input type="checkbox" class="remember-me-checkbox"&gt;
+              &lt;label class="remember-me-label"&gt;Remember me&lt;/label&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/form&gt;
+        &lt;p class="old-social-users"&gt;Used to log in with social media? &lt;a href="/account/social-relink"&gt;Log in here.&lt;/a&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class="new-users"&gt;
+        &lt;h2&gt;New Users&lt;/h2&gt;
+        &lt;a href="/account/signup" class="green-button"&gt;Create a Beatport account&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-alert-template" type="text/template">
+   &lt;div class="modal-alert-body"&gt;
+    &lt;span class="modal-alert-icon icon icon-dead-robot-head"&gt;&lt;/span&gt;
+    &lt;p class="modal-alert-text"&gt;&lt;em&gt;Uh-oh!&lt;/em&gt; Something went wrong. Please try again later.&lt;/p&gt;
+    &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-cart-construction-template" type="text/template">
+   &lt;div class="modal-alert-body"&gt;
+    &lt;span class="modal-alert-icon icon icon-dead-robot-head"&gt;&lt;/span&gt;
+    &lt;p class="modal-alert-text"&gt;&lt;em&gt;Uh-oh!&lt;/em&gt; The shopping cart isn't quite done yet.&lt;/p&gt;
+    &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-loading-template" type="text/template">
+   &lt;div class="modal-loading-body"&gt;
+    &lt;div class="modal-loading-gif-parent"&gt;
+      &lt;img src="https://geo-pro.beatport.com/static/52c40db1c325e927404d6960f2fd3b205bbd755e/images/animated-beatbot-loading.gif" alt="Loading" class="beatbot-loading-gif" /&gt;
+    &lt;/div&gt;
+    &lt;h1&gt;Loading...&lt;/h1&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-keyboard-shortcuts" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Keyboard Shortcuts&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-keyboard-shortcuts-content"&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;toggle play/pause&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;p&lt;/em&gt; &lt;span class="keyboard-shortcut-or"&gt;or&lt;/span&gt; &lt;em&gt;space&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;previous track in queue&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt; &lt;em&gt;[&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;next track in queue&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt; &lt;em&gt;]&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;previous track in track grid&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;left arrow&lt;/em&gt; &lt;span class="keyboard-shortcut-or"&gt;or&lt;/span&gt; &lt;em&gt;k&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;next track in track grid&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;right arrow&lt;/em&gt; &lt;span class="keyboard-shortcut-or"&gt;or&lt;/span&gt; &lt;em&gt;j&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;seek forward&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;&gt;&lt;/em&gt; &lt;span class="keyboard-shortcut-or"&gt;or&lt;/span&gt; &lt;em&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;seek backwards&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;&lt;&lt;/em&gt; &lt;span class="keyboard-shortcut-or"&gt;or&lt;/span&gt; &lt;em&gt;,&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;toggle info&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;i&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;toggle waveform zoom&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;z&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;Add track to shopping cart&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;b&lt;/em&gt; &lt;span class="keyboard-shortcut-or"&gt;or&lt;/span&gt; &lt;em&gt;+&lt;/em&gt; &lt;span class="keyboard-shortcut-or"&gt;or&lt;/span&gt; &lt;em&gt;=&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;toggle open playlist&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;o&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span class="keyboard-shortcut-label"&gt;toggle shortcuts&lt;/span&gt;&lt;span class="keyboard-shortcut-value"&gt;&lt;em&gt;?&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-forgot-password-template" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Forgot your username or password?&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-forgot-username-password-content"&gt;
+      &lt;p&gt;If you've forgotten your username or password, please enter the email address associated with your account and we will send you your username and a link to reset your password.&lt;/p&gt;
+      &lt;form class="forgot-password-form" method="post" action="/account/forgot-password"&gt;
+        &lt;input type="email" placeholder="EMAIL" address="ADDRESS"&gt;
+        &lt;button type="submit" value="Submit" class="forgot-password-form-button"&gt;Submit&lt;/button&gt;
+      &lt;/form&gt;
+      &lt;p class="modal-bottom-links"&gt;&lt;a href="/account/login"&gt;Log In&lt;/a&gt; | &lt;a href="/account/signup"&gt;Create a Beatport account&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-old-social-login-template" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Used to log in with social media?&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-old-social-login-content"&gt;
+      &lt;img src="/static/cc5742f9291795a5c7b57c3798f76ed408c1e8de/images/old-social-logins.svg" alt="Facebook, Twitter, Paypal and Google Plus" class="old-social-login-logos"&gt;
+      &lt;p&gt;We've discontinued social logins, but you can still access your account via a username and password. Please enter the email address associated with your account and we will send you a username and a link to reset your password.&lt;/p&gt;
+      &lt;form class="forgot-password-form" method="post" action="/account/social-relink"&gt;
+        &lt;input type="email" placeholder="EMAIL ADDRESS"&gt;
+        &lt;button type="submit" value="Submit" class="forgot-password-form-button"&gt;Submit&lt;/button&gt;
+      &lt;/form&gt;
+      &lt;p class="modal-bottom-links"&gt;&lt;a href="/account/login"&gt;Log In&lt;/a&gt; | &lt;a href="/account/signup"&gt;Create a Beatport account&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-reset-password-success-template" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Success!&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-reset-password-success-content"&gt;
+      &lt;p&gt;You will receive an email shortly with your username and instructions to help you reset your password.&lt;/p&gt;
+      &lt;p class="modal-bottom-links"&gt;&lt;a href="/account/login"&gt;Log In&lt;/a&gt; | &lt;a href="#"&gt;Having issues? Contact customer support.&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-downloads-temporary-messaging" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Thanks for using Beatport&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-login-signup-main-content"&gt;
+      &lt;p&gt;We are committed to making sure that the checkout process is safe and secure.&lt;/p&gt;
+      &lt;p&gt;Our new downloads process is currently still in development as we are trying to bring you the best experience possible.&lt;/p&gt;
+      &lt;p&gt;To complete your transaction now please head over to the download process you're already familiar with on Beatport.com.&lt;/p&gt;
+      &lt;a class="launch-beatport-downloads-button large-green-button"&gt;Get your downloads at beatport.com&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-prev-purchased" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Previously Purchased Items&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-save-changes-main-content"&gt;
+      &lt;p&gt;It looks like you've previously purchased the following items. Are you sure you'd like to repurchase them?&lt;/p&gt;
+      &lt;ul class="prev-purchased-items"&gt;
+        &lt;li class="prev-purchased-item select-all-prev-purchased-items"&gt;
+          &lt;input class="prev-purchased-checkbox" type="checkbox" id="select-all-prev-purchased"&gt;
+          &lt;label class="prev-purchased-label" for="select-all-prev-purchased"&gt;Select All&lt;/label&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="modal-button-choices"&gt;
+        &lt;a href="#" class="gray-button cancel-button"&gt;Cancel&lt;/a&gt;
+        &lt;a href="#" class="blue-button continue-button"&gt;Add to Cart&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-cart-settings" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1 class="cart-settings-title"&gt;Cart Settings&lt;/h1&gt;
+      &lt;h1 class="cart-new-title hide"&gt;New Cart&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content"&gt;
+      &lt;form class="add-cart-modal-form"&gt;
+        &lt;label for="name" class="add-cart-modal-label-name"&gt;Name&lt;/label&gt;
+        &lt;input type="text" id="name" name="name"&gt;
+        &lt;input type="hidden" id="id" name="id"&gt;
+        &lt;div class="set-as-default-wrapper"&gt;
+          &lt;input type="checkbox" name="default" id="default"&gt;
+          &lt;label for="default" class="add-cart-modal-label-set-default"&gt;Set as default cart&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;div class="modal-button-choices"&gt;
+          &lt;input type="submit" value="Save Changes" class="pink-button"&gt;
+          &lt;button class="cancel gray-button"&gt;Cancel&lt;/button&gt;
+        &lt;/div&gt;
+      &lt;/form&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-multi-cart" type="text/template">
+   &lt;div class="modal-body modal-body-multi-cart"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1 class="cart-settings-title"&gt;Add to Cart&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content"&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="modal-switch-stem-mode" type="text/template">
+   &lt;div class="modal-body"&gt;
+    &lt;div class="modal-title-bar"&gt;
+      &lt;h1&gt;Switch to Stem Mode&lt;/h1&gt;
+      &lt;a href="#" class="close-modal-link icon icon-delete"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="modal-main-content modal-save-changes-main-content"&gt;
+      &lt;p&gt;To mute/solo stem parts will require more bandwidth. Continue?&lt;/p&gt;
+      &lt;div class="modal-button-choices"&gt;
+        &lt;a href="#" class="gray-button cancel-button"&gt;Cancel&lt;/a&gt;
+        &lt;a href="#" class="blue-button continue-button"&gt;Switch to Stem Mode&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="cart-menu-template" type="text/template">
+   &lt;%= header ? "&lt;div class='cart-menu'&gt;" : "" %&gt;
+  &lt;%= cartHeader ? "&lt;div class='cart-top-title-nav'&gt;" : "" %&gt;
+  &lt;%= (!header &amp;&amp; !cartHeader) ? "&lt;div class='buy-button-menu'&gt;" : "" %&gt;
+    &lt;ul class='cart-list'&gt;
+    &lt;/ul&gt;
+    &lt;div class="cart-menu-spinner-container"&gt;
+      &lt;div&gt;
+        &lt;div class="bounce1"&gt;&lt;/div&gt;
+        &lt;div class="bounce2"&gt;&lt;/div&gt;
+        &lt;div class="bounce3"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class="add-new-cart"&gt;
+      &lt;svg viewbox="0 0 200 200" class="add-new-cart-icon"&gt;
+        &lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-plus-circled"&gt;&lt;/use&gt;
+      &lt;/svg&gt; New Cart&lt;/button&gt;
+  &lt;/div&gt;
+  </script>
+  <script id="cart-menu-item-template" type="text/template">
+   &lt;li data-id="&lt;%= id %&gt;" data-name="&lt;%= name %&gt;" data-destination="&lt;%= id %&gt;" class="&lt;%= hasItem ? "li-in-cart" : "" %&gt;"&gt;
+    &lt;%= (header || cartHeader) ? "&lt;a href=" + path + "&gt;" : "" %&gt;
+      &lt;span class="title"&gt;
+        &lt;%= isDefault === true ? '&lt;svg viewBox="0 0 200 200" class="cart-menu-default-icon"&gt;&lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-star"&gt;&lt;/use&gt;&lt;/svg&gt;' : "" %&gt;
+        &lt;%= name === "hold-bin" ? '&lt;svg viewbox="0 0 200 200" class="cart-menu-holdbin-icon"&gt;&lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-holdbin"&gt;&lt;/use&gt;&lt;/svg&gt;' : "" %&gt;
+        &lt;%= hasItem ? "&lt;svg viewbox=""&gt;&lt;use xlink:href=""&gt;&lt;/use&gt;&lt;/svg&gt;" : "" %&gt;
+        &lt;%- displayName %&gt;&lt;/span&gt;
+      &lt;span class="price"&gt;&lt;%= price %&gt;&lt;/span&gt;
+    &lt;%= (header || cartHeader) ? "&lt;/a&gt;" : "" %&gt;
+  &lt;/li&gt;
+  </script>
+  <script id="cart-menu-header-item-template" type="text/template">
+   &lt;li data-id="&lt;%= id %&gt;" data-name="&lt;%= name %&gt;" data-destination="&lt;%= id %&gt;" class="&lt;%= hasItem ? "li-in-cart" : "" %&gt;"&gt;
+  &lt;%= (header || cartHeader) ? "&lt;a href=" + path + "&gt;" : "" %&gt;
+    &lt;div class="price-container"&gt;
+      &lt;div&gt;
+        &lt;span class="title"&gt;
+          &lt;%- displayName %&gt;
+          &lt;%= isDefault === true ? '&lt;svg viewBox="0 0 200 200" class="cart-menu-default-icon"&gt;&lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-star"&gt;&lt;/use&gt;&lt;/svg&gt;' : "" %&gt;
+          &lt;%= name === "hold-bin" ? '&lt;svg viewbox="0 0 200 200" class="cart-menu-holdbin-icon"&gt;&lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-holdbin"&gt;&lt;/use&gt;&lt;/svg&gt;' : "" %&gt;
+          &lt;%= hasItem ? "&lt;svg viewbox=""&gt;&lt;use xlink:href=""&gt;&lt;/use&gt;&lt;/svg&gt;" : "" %&gt;
+        &lt;/span&gt;
+        &lt;br&gt;
+        &lt;span class="quantity"&gt;&lt;%= quantity %&gt; &lt;%= quantityLabel %&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="price" style="max-height: 50%;"&gt;&lt;%= price %&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;%= (header || cartHeader) ? "&lt;/a&gt;" : "" %&gt;
+&lt;/li&gt;
+  </script>
+  <footer>
+   <div class="footer-content-container">
+    <div class="foot-col foot-one">
+     <div class="footer-logo">
+      <svg viewbox="0 0 200 200" alt="Beatport" class="logo-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#logo-headphones">
+       </use>
+      </svg>
+      <svg viewbox="0 0 935.5 200" alt="Beatport" class="logo-type">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#logo-type">
+       </use>
+      </svg>
+     </div>
+     <small>
+      &copy; 2004-2016 Beatport, LLC
+     </small>
+     <div class="footer-social">
+      <a href="http://www.facebook.com/beatport" class="icon icon-facebook">
+      </a>
+      <a href="http://www.twitter.com/beatport" class="icon icon-twitter">
+      </a>
+      <a href="http://www.instagram.com/beatport" class="icon icon-instagram">
+      </a>
+     </div>
+     <div class="footer-mastercard-container mastercard-container">
+      <img class="mastercard-logo" src="https://geo-pro.beatport.com/static/ce3a7fc9eb21a9953d2a8163bfafd9a42b0f33c9/images/mastercard-logo.png" alt="Mastercard — The Preferred Card of Beatport" width="60" />
+      <p class="mastercard-text">
+       Preferred card of Beatport
+      </p>
+     </div>
+    </div>
+    <div class="foot-col foot-two">
+     <h6>
+      Company
+     </h6>
+     <ul class="footer-list">
+      <li class="footer-list-item">
+       <a target="_blank" href="http://about.beatport.com/" class="footer-link">
+        About Beatport
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="https://blog.beatport.com/" class="footer-link">
+        Blog
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="https://support.beatport.com/hc/" class="footer-link">
+        Customer Support
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="https://support.beatport.com/hc/articles/200131499" class="footer-link">
+        Contact Us
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="http://jobs.beatport.com/" class="footer-link careers-beatport">
+        Careers
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="https://support.beatport.com/hc/articles/200353255" class="footer-link">
+        Logos and Images
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="https://support.beatport.com/hc/articles/215996708-Terms-and-Conditions" class="footer-link">
+        Terms and Conditions
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="https://support.beatport.com/hc/articles/200353215" class="footer-link">
+        Privacy and Cookie Policy
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="http://forms.beatport.com/form/51386983261968" class="footer-link">
+        Report Copyright Infringement
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="https://beatport.uservoice.com/forums/262082-beatport-pro" class="footer-link">
+        Feedback
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="/sitemap" class="footer-link">
+        Sitemap
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="foot-col foot-three">
+     <h6>
+      Network
+     </h6>
+     <ul class="footer-list">
+      <li class="footer-list-item">
+       <a target="_blank" href="http://classic.beatport.com/" class="footer-link legacy-link">
+        Beatport Classic
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="http://sounds.beatport.com/" class="footer-link">
+        Beatport Sounds
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="http://mixes.beatport.com/" class="footer-link">
+        Beatport Mixes
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="/desktop" class="footer-link">
+        Beatport Pro for Desktop
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a target="_blank" href="http://dj.beatport.com/" class="footer-link">
+        Beatport DJs
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="foot-col foot-four">
+     <h6>
+      Language
+     </h6>
+     <ul class="footer-list language-select">
+      <li class="footer-list-item">
+       <a href="#" data-language="en_US" class="footer-link">
+        English
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a href="#" data-language="es_ES" class="footer-link">
+        Español
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a href="#" data-language="fr_FR" class="footer-link">
+        Français
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a href="#" data-language="de_DE" class="footer-link">
+        Deutsch
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a href="#" data-language="pt_BR" class="footer-link">
+        Português
+       </a>
+      </li>
+      <li class="footer-list-item">
+       <a href="#" data-language="nl_NL" class="footer-link">
+        Nederlands
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </footer>
+  <section class="player-container zero-state player-section">
+   <span class="zero-track">
+    <svg viewbox="0 0 200 200" class="player-zero-music-icon">
+     <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-music">
+     </use>
+    </svg>
+    <p class="zero-track-message">
+     There's nothing in the player. Choose a track and either play it or add it to the queue to get going.
+    </p>
+   </span>
+   <div class="player-current-track-container">
+    <a href="" class="track-artwork-link">
+     <img class="track-artwork" src="" />
+    </a>
+    <div class="player-track-name-artist player-track-name-artist-standard">
+     <span class="track-title">
+      <a href="" class="track-artwork-link">
+       <span class="primary-title">
+       </span>
+       <span class="remixed">
+       </span>
+      </a>
+     </span>
+     <span class="track-artist">
+     </span>
+    </div>
+    <marquee class="player-track-name-artist player-track-name-artist-marquee">
+     <span class="track-title">
+      <a href="" class="track-artwork-link">
+       <span class="primary-title">
+       </span>
+       <span class="remixed">
+       </span>
+      </a>
+     </span>
+     <span class="track-artist">
+     </span>
+    </marquee>
+    <div class="info-button-parent">
+     <a href="#" class="track-info-button">
+      INFO
+     </a>
+     <!-- Info Drop Down -->
+     <div class="info-drop">
+      <ul class="info">
+      </ul>
+      <div class="player-share-links">
+       <a href="#" class="player-share-link twitter">
+        <svg viewbox="0 0 200 200" class="player-twitter-icon">
+         <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-twitter">
+         </use>
+        </svg>
+       </a>
+       <a href="#" class="player-share-link facebook">
+        <svg viewbox="0 0 200 200" class="player-facebook-icon">
+         <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-facebook">
+         </use>
+        </svg>
+       </a>
+      </div>
+      <p class="launch-keyboard-shortcuts-link-parent">
+       <a href="#" class="launch-keyboard-shortcuts-link">
+        View Keyboard Shortcuts
+        <svg viewbox="0 0 200 200" class="keyboard-icon">
+         <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-keyboard">
+         </use>
+        </svg>
+       </a>
+      </p>
+     </div>
+     <!-- End Info Drop Down -->
+    </div>
+    <!-- End Info Button Parent -->
+    <!--div class="share-button-parent"&gt;
+      &lt;a href="#" class="track-share-button"&gt;
+        &lt;svg viewBox="0 0 200 200" class="track-share-button-icon"&gt;
+          &lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-share"&gt;&lt;/use&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+      &lt;!-- Share Drop Down -->
+    <div class="share-drop">
+     <p class="player-share-links">
+      <a href="#" class="player-share-link twitter">
+       <svg viewbox="0 0 200 200" class="player-twitter-icon">
+        <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-twitter">
+        </use>
+       </svg>
+       Share on Twitter
+      </a>
+      <a href="#" class="player-share-link facebook">
+       <svg viewbox="0 0 200 200" class="player-facebook-icon">
+        <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-facebook">
+        </use>
+       </svg>
+       Share on Facebook
+      </a>
+     </p>
+    </div>
+    <!-- End Share Drop Down -->
+    <!-- End Share Button Parent -->
+    <div class="stem-button-parent">
+     <a>
+      <img src="/static/c571365566ef78fe5b91a6612e90e7f38d6bc43f/images/stems/Stem_Bars.svg" />
+      STEM
+     </a>
+    </div>
+   </div>
+   <div class="player-waveform-container">
+    <a href="#" class="zoom-button zoom-in">
+     <svg viewbox="0 0 200 200" class="zoom-in-icon">
+      <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-plus">
+      </use>
+     </svg>
+     <svg viewbox="0 0 200 200" class="zoom-out-icon">
+      <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-minus">
+      </use>
+     </svg>
+    </a>
+    <div class="player-waveform-bpm-key-container">
+     <span class="player-waveform-bpm">
+      128 BPM
+     </span>
+     /
+     <span class="player-waveform-key">
+      A min
+     </span>
+    </div>
+    <div class="player-scrubbable player-clickzone">
+    </div>
+    <div class="player-wavelength-mask-left">
+    </div>
+    <div class="player-wavelength-mask-right">
+    </div>
+    <div class="player-scrubbable player-progress-bar">
+    </div>
+    <canvas class="track-waveform">
+    </canvas>
+    <span class="disabled-message">
+     (Stem Player Active) - To reactivate full player controls, you'll need to play a new song
+    </span>
+   </div>
+   <div class="player-buttons-container">
+    <!-- New Buy Button -->
+    <div class="buy-button">
+     <button class="add-to-default">
+      <svg viewbox="0 0 200 200" class="add-to-default-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-cart">
+       </use>
+      </svg>
+      <span class="add-to-default-price">
+       $0.00
+      </span>
+     </button>
+     <button class="launch-menu">
+      <svg viewbox="0 0 200 200" class="launch-menu-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down">
+       </use>
+      </svg>
+      <svg viewbox="0 0 200 200" class="loading-menu-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner">
+       </use>
+      </svg>
+     </button>
+    </div>
+    <!-- Old Buy Button
+    &lt;a href="#" class="buy-button"&gt;
+      &lt;span class="icon icon-cart"&gt;&lt;/span&gt;
+      &lt;span class="button-text"&gt;&lt;/span&gt;
+    &lt;/a&gt; -->
+    <div class="volume-button-parent">
+     <a class="volume-button">
+      <svg viewbox="0 0 200 200" class="volume-on-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-volume-on">
+       </use>
+      </svg>
+      <svg viewbox="0 0 200 200" class="volume-off-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-volume-off">
+       </use>
+      </svg>
+     </a>
+     <div class="volume-drop">
+      <input type="range" orient="vertical" class="volume-drop-range" />
+     </div>
+    </div>
+    <div class="player-controls">
+     <a href="#" class="prev-button">
+      <svg viewbox="0 0 200 200" class="prev-button-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-prev">
+       </use>
+      </svg>
+     </a>
+     <a href="#" class="play-button play">
+      <svg viewbox="0 0 200 200" class="play-button-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-play">
+       </use>
+      </svg>
+      <svg viewbox="0 0 200 200" class="pause-button-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-pause">
+       </use>
+      </svg>
+     </a>
+     <a href="#" class="next-button">
+      <svg viewbox="0 0 200 200" class="next-button-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-next">
+       </use>
+      </svg>
+     </a>
+    </div>
+    <div class="menu-queue-buttons-parent">
+     <a href="#" class="player-queue-button">
+      <svg viewbox="0 0 200 200" class="player-queue-button-img">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-queue">
+       </use>
+      </svg>
+     </a>
+     <a href="#" class="player-menu-button">
+      <svg viewbox="0 0 200 200" class="player-menu-button-img">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-menu">
+       </use>
+      </svg>
+     </a>
+     <!-- Queue Drop Down -->
+     <div class="queue-drop">
+      <div class="queue-drop-title">
+       Player Queue
+       <a href="" class="queue-drop-clear-all">
+        Clear Queue
+       </a>
+      </div>
+      <ul class="queue">
+      </ul>
+     </div>
+     <!-- End Queue Drop Down -->
+    </div>
+   </div>
+  </section>
+  <div class="player-mobile-pop-up player-section">
+   <!-- Queue Mobile -->
+   <div class="queue-mobile">
+    <div class="queue-mobile-title">
+     Player Queue
+     <a href="#" class="queue-mobile-clear-all">
+      Clear Queue
+     </a>
+    </div>
+    <ul class="mobile-queue">
+    </ul>
+   </div>
+   <!-- End Queue Mobile -->
+   <!-- Info Mobile -->
+   <div class="info-mobile">
+    <div class="info-album">
+     <img class="info-album-slide track-artwork-mobile" />
+     <a href="#" class="info-button">
+      info
+     </a>
+    </div>
+    <div class="info-list-container">
+     <ul class="info">
+     </ul>
+     <img class="info-album-blur track-artwork-mobile" />
+     <a href="#" class="player-mobile-share-link player-mobile-share-twitter-link twitter">
+      <svg viewbox="0 0 200 200" class="player-twitter-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-twitter">
+       </use>
+      </svg>
+     </a>
+     <a href="#" class="player-mobile-share-link player-mobile-share-facebook-link facebook">
+      <svg viewbox="0 0 200 200" class="player-facebook-icon">
+       <use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-facebook">
+       </use>
+      </svg>
+     </a>
+    </div>
+   </div>
+   <!-- End Info Mobile-->
+   <!-- Waveform Mobile !! this only appears in iPhone landscape and portrait -->
+   <div class="waveform-mobile">
+    <div class="player-scrubbable player-clickzone">
+    </div>
+    <div class="player-wavelength-mask-left">
+    </div>
+    <div class="player-wavelength-mask-right">
+    </div>
+    <div class="player-scrubbable player-progress-bar">
+    </div>
+    <canvas class="track-waveform">
+    </canvas>
+   </div>
+   <!-- End Waveform Mobile-->
+  </div>
+  <div class="queue-hit-area">
+  </div>
+  <!-- End Player Mobile Pop Up -->
+  <!-- Info display -->
+  <script type="text/template" id="player-info-item">
+   &lt;li&gt;
+    &lt;span class="category"&gt;&lt;% key %&gt;&lt;/span&gt;
+    &lt;span class="value"&gt;&lt;% value %&gt;&lt;/span&gt;
+  &lt;/li&gt;
+  </script>
+  <!-- Playlist item template -->
+  <script type="text/template" id="player-playlist-item">
+   &lt;span class="icon icon-play"&gt;&lt;/span&gt;
+    &lt;img src="&lt;% artwork %&gt;"&gt;&lt;% artwork %&gt;" /&gt;
+    &lt;div class="player-track-name-artist"&gt;
+      &lt;span class="track-title"&gt;
+        &lt;span class="primary-title"&gt;&lt;% track_title %&gt;&lt;/span&gt;
+        &lt;span class="remixed"&gt;&lt;% track_mix %&gt;&lt;/span&gt;
+      &lt;/span&gt;
+      &lt;span class="track-artist"&gt;&lt;% track_artist %&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="track-button-container"&gt;
+      &lt;div class="buy-button" data-track="&lt;% id %&gt;"&gt;&lt;% id %&gt;" data-price="&lt;% price %&gt;"&gt;
+        &lt;button class="add-to-default"&gt;
+          &lt;svg viewbox="0 0 200 200" class="add-to-default-icon"&gt;
+            &lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-cart"&gt;&lt;/use&gt;
+          &lt;/svg&gt;
+          &lt;span class="add-to-default-price"&gt;&lt;% price %&gt;&lt;/span&gt;
+        &lt;/button&gt;
+        &lt;button class="launch-menu"&gt;
+          &lt;svg viewbox="0 0 200 200" class="launch-menu-icon"&gt;
+            &lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-chevron-down"&gt;&lt;/use&gt;
+          &lt;/svg&gt;
+          &lt;svg viewbox="0 0 200 200" class="loading-menu-icon"&gt;
+            &lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-spinner"&gt;&lt;/use&gt;
+          &lt;/svg&gt;
+        &lt;/button&gt;
+      &lt;/div&gt;
+      &lt;a href="&lt;% id %&gt;"&gt;&lt;% id %&gt;" class="delete-track playlist-item-remove"&gt;
+        &lt;svg viewbox="0 0 200 200" class="delete-track-icon"&gt;
+          &lt;use xlink:href="/static/fd9a859f1205a0b5d5b2d6c9f28aee0f274cd4d9/images/defs.svg#icon-x"&gt;&lt;/use&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  </script>
+  <script type="text/javascript">
+   !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&amp;&amp;console.error&amp;&amp;console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t&lt;analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
+  var writeKey;
+  if (document.location.hostname === "www.beatport.com") {
+    writeKey = "REF9alhI1x3yFbrTJJtkYpj0D7sc2JFs";
+  } else {
+    writeKey = "8Gh5d9buBTC2FvLVMGvaaHzgWnOzRR4W";
+  }
+  analytics.load(writeKey);
+}}();
+  </script>
+  <!-- dataLayer Google Tag Manager -->
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  </script>
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W38X5V" height="0" width="0" style="display:none;visibility:hidden">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W38X5V');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- BPdataLayer Google Tag Manager -->
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WVTMQP" height="0" width="0" style="display:none;visibility:hidden">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','BPdataLayer','GTM-WVTMQP');
+  </script>
+  <!-- End Google Tag Manager -->
+  <script>
+   (function() {
+   var _fbq = window._fbq || (window._fbq = []);
+   if (!_fbq.loaded) {
+     var fbds = document.createElement('script');
+     fbds.async = true;
+     fbds.src = '//connect.facebook.net/en_US/fbds.js';
+     var s = document.getElementsByTagName('script')[0];
+     s.parentNode.insertBefore(fbds, s);
+     _fbq.loaded = true;
+   }
+   _fbq.push(['addPixelId', '1456590864603386']);
+ })();
+ window._fbq = window._fbq || [];
+ window._fbq.push(['track', 'PixelInitialized', {}]);
+  </script>
+  <noscript>
+   <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1456590864603386&amp;ev=PixelInitialized" />
+  </noscript>
+  <script>
+   (function() {
+  if (!window.twttr) {
+    var twitterScript = document.createElement('script');
+    twitterScript.async = true;
+    twitterScript.src = '//platform.twitter.com/oct.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(twitterScript, s);
+  }
+  var attemptCount = 0;
+  var interval = setInterval(function() {
+    attemptCount++;
+    if (attemptCount &gt; 10) {
+      clearInterval(interval);
+      return;
+    }
+    if (window.twttr) {
+      clearInterval(interval);
+      try {
+        twttr.conversion.trackPid('l4ryu');
+      } catch (e) {
+        // Potentially ad-blocked
+      }
+    }
+  }, 1000);
+})();
+  </script>
+  <noscript>
+   <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4ryu&amp;p_id=Twitter" />
+   <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4ryu&amp;p_id=Twitter" />
+  </noscript>
+  <script>
+   (function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
+a.src="//radar.cedexis.com/1/18900/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
+.test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&amp;&amp;a[d]("on"+e,f))})
+(window,document,"addEventListener","attachEvent","load");
+  </script>
+  <script type="text/javascript">
+   if (document.location.hostname === "www.beatport.com") {
+        ravenKey = "60e485948ea24dc8b648326b338b4eb3";
+        projectKey = "27597";
+    } else {
+        ravenKey = "cd7e6af9459d44718d570991dbb0313a";
+        projectKey = "34496";
+    }
+    Raven.config('https://' + ravenKey + '@app.getsentry.com/' + projectKey).install()
+  </script>
+ </body>
+</html>

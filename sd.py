@@ -10,12 +10,8 @@ from jinja2 import Environment, FileSystemLoader
 import shutil
 from datetime import datetime as dt
     
-DEBUG = True
-RESULTS = 1
-
-shop_list_test=[
-{'shopname':u'Beatport', 	'shopurl':u'https://www.beatport.com/'}
-]
+DEBUG = False
+RESULTS = 3
 
 shop_list=[
  {'shopname':u'mp3va', 		'shopurl':u'http://www.mp3va.com/'},
@@ -32,8 +28,6 @@ shop_list=[
 # {'shopname':u'ユニオン','shopurl':u'http://diskunion.net/'},
 # {'shopname':u'テクニーク','shopurl':u'http://www.technique.co.jp/'}
 ]
-
-
 
 
 class Shop:
@@ -60,14 +54,7 @@ class Shop:
 			if url.find('.xml') == -1:
 				print '  ',url
 				soup = BeautifulSoup(urllib.urlopen(url))
-				if DEBUG:
-					tdatetime = dt.now()
-					tstr = tdatetime.strftime('%Y/%m/%d-%H:%M')
-					f = open('test.txt', 'w')
-					f.write(soup.prettify())
-					print 'write ',self.name+'_'+tstr+'.html'
-					f.close()
-					#print soup.prettify()
+				#print soup.prettify()
 				try:
 					title = soup.find('title').text
 				except AttributeError:
@@ -121,25 +108,19 @@ def connect_jinja(shop_class_list, keyword):
 
 if __name__ == "__main__":
 
+	shop_class_list=[]
+
 	if DEBUG:
 		print 'DEBUG==true'
 
 	print "input keyword..."
 	keyword = raw_input()
-
-	sl = []
-	shop_class_list=[]
 	
 	tdatetime = dt.now()
 	tstr = tdatetime.strftime('%Y/%m/%d-%H:%M')
 	print tstr, 'start search...'
-	
-	if DEBUG:
-		sl = shop_list_test
-	else:
-		sl = shop_list
-	
-	for a in sl:
+
+	for a in shop_list:
 		shop_class_list.append(Shop(a['shopname'], a['shopurl'],keyword))
 	
 	connect_jinja(shop_class_list, keyword)
@@ -147,7 +128,4 @@ if __name__ == "__main__":
 	tdatetime = dt.now()
 	tstr = tdatetime.strftime('%Y/%m/%d-%H:%M')
 	print tstr, "Finish!!"
-
-	#shutil.copy('./test.html', '/Library/WebServer/Documents/sd.html')
-	#webbrowser.open('http://localhost/sd.html')
-
+	
